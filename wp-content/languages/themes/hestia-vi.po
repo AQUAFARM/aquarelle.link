@@ -1,0 +1,1225 @@
+# Translation of Themes - Hestia in Vietnamese
+# This file is distributed under the same license as the Themes - Hestia package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-09-26 09:51:04+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Themes - Hestia\n"
+
+#. Description of the plugin/theme
+msgid "Hestia is a modern WordPress theme for professionals. It fits creative business, small businesses (restaurants, wedding planners, sport/medical shops), startups, corporate businesses, online agencies and firms, portfolios, ecommerce (WooCommerce), and freelancers. It has a multipurpose one-page design, widgetized footer, blog/news page and a clean look, is compatible with: Flat Parallax Slider, Photo Gallery, Travel Map and Elementor Page Builder . The theme is responsive, WPML, Retina ready, SEO friendly, and uses Material Kit for design."
+msgstr "Hestia là giao diện WordPress cho người yêu thích sự chuyên nghiệp. Nó phù hợp với kinh doanh sáng tạo, các doanh nghiệp nhỏ (nhà hàng, nhà tổ chức đám cưới, cửa hàng thể thao / y tế), khởi nghiệp, doanh nghiệp, các cơ quan và công ty trực tuyến, danh mục đầu tư, thương mại điện tử (WooCommerce) và dịch vụ tự do. Nó có thiết kế một trang đa năng, footer được widget, blog / trang tin tức và trông sạch sẽ, tương thích với: Thanh trượt Parallax phẳng, Thư viện ảnh, Bản đồ du lịch và Trình tạo trang của Elementor Page Builder. Giao diện này cũng tương thích với WPML, hỗ trợ retina, thân thiện với SEO và sử dụng Material Kit để thiết kế."
+
+#. translators: %1$s is Theme Name, %2$s is WordPress
+#: inc/views/main/class-hestia-footer.php:128
+msgid "%1$s | Developed by %2$s"
+msgstr "%1$s | Thiết kế bởi %2$s"
+
+#. translators: %s is Feature name
+#. translators: %s Feature name
+#: inc/customizer/general/class-hestia-upsell-manager.php:163
+#: inc/customizer/general/class-hestia-upsell-manager.php:192
+msgid "More Options Available for %s in the PRO version."
+msgstr "Thêm nhiều tuỳ chọn có sẵn dành cho %s trong phiên bản PRO."
+
+#: inc/customizer/general/class-hestia-general-controls.php:170
+msgid "Disable"
+msgstr "Tắt"
+
+#: inc/customizer/general/class-hestia-buttons-style-controls.php:108
+msgid "Border radius"
+msgstr "Border radius"
+
+#: inc/customizer/general/class-hestia-buttons-style-controls.php:83
+msgid "Padding (px)"
+msgstr "Padding (px)"
+
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:223
+msgid "Infinite Scroll"
+msgstr "Infinite Scroll"
+
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:222
+msgid "Number"
+msgstr "Số"
+
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:217
+msgid "Post Pagination"
+msgstr "Phân trang bài viết"
+
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:201
+msgid "Excerpt length"
+msgstr "Số kí tự phần tóm tắt"
+
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:178
+msgid "Excerpt"
+msgstr "Tóm tắt"
+
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:176
+msgid "Blog Post Content"
+msgstr "Nội dung bài viết blog"
+
+#: inc/content-import/class-hestia-import-zerif-frontpage.php:90
+msgid "Import Zerif Front page as template "
+msgstr "Nhập trang chủ Zerif như là template"
+
+#: inc/content-import/class-hestia-import-zerif-frontpage.php:86
+msgid "But first, we need to install and activate Elementor."
+msgstr "Nhưng trước tiên, chúng ta cần cài và kích hoạt Elementor."
+
+#: inc/content-import/class-hestia-import-zerif-frontpage.php:83
+msgid "We can help you convert your Zerif front page into an Elementor template, so you can use it again."
+msgstr "Chúng tôi có thể giúp bạn chuyển trang chủ Zerif sang bố cục Elementor, để bạn có thể tiếp tục sử dụng."
+
+#: inc/content-import/class-hestia-import-zerif-frontpage.php:82
+msgid "We detected that you previously had Zerif installed."
+msgstr "Chúng tôi nhận thấy bạn đã cài Zerif trước đây."
+
+#: vendor/codeinwp/ti-onboarding/includes/class-themeisle-ob-admin.php:150
+msgid "Content was successfully imported. Enjoy your new site!"
+msgstr "Nội dung được nhập thành công. Hãy trải nghiệm nhé!"
+
+#: vendor/codeinwp/ti-onboarding/includes/class-themeisle-ob-admin.php:149
+msgid "We recommend you backup your website content before attempting a full site import."
+msgstr "Chúng tôi khuyến cáo bạn sao lưu website trước khi thử nhập lại toàn bộ website."
+
+#: vendor/codeinwp/ti-onboarding/includes/class-themeisle-ob-admin.php:147
+msgid "Importing Widgets"
+msgstr "Đang nhập widget"
+
+#: vendor/codeinwp/ti-onboarding/includes/class-themeisle-ob-admin.php:146
+msgid "Setting Up Customizer"
+msgstr "Thiết đặt Tuỳ chỉnh"
+
+#: vendor/codeinwp/ti-onboarding/includes/class-themeisle-ob-admin.php:145
+msgid "Importing Content"
+msgstr "Đang nhập nội dung"
+
+#: vendor/codeinwp/ti-onboarding/includes/class-themeisle-ob-admin.php:144
+msgid "Installing Plugins"
+msgstr "Đang cài plugin"
+
+#: vendor/codeinwp/ti-onboarding/includes/class-themeisle-ob-admin.php:142
+msgid "Widgets"
+msgstr "Widget"
+
+#: vendor/codeinwp/ti-onboarding/includes/class-themeisle-ob-admin.php:139
+msgid "This process will set up your website, install required plugins, import demo content (pages, posts, media) and set up the customizer options."
+msgstr "Quá trình này sẽ thiết lập website, cài đặt các plugin được yêu cầu, nhúng nội dung mẫu (trang, bài viết, media) và xây dựng các tuỳ chỉnh."
+
+#: vendor/codeinwp/ti-onboarding/includes/class-themeisle-ob-admin.php:136
+msgid "General"
+msgstr "Chung"
+
+#: vendor/codeinwp/ti-onboarding/includes/class-themeisle-ob-admin.php:135
+msgid "Plugins"
+msgstr "Plugin"
+
+#: vendor/codeinwp/ti-onboarding/includes/class-themeisle-ob-admin.php:134
+msgid "Advanced Options"
+msgstr "Tuỳ chọn nâng cao"
+
+#: vendor/codeinwp/ti-onboarding/includes/class-themeisle-ob-admin.php:133
+msgid "Note"
+msgstr "Chú ý"
+
+#: vendor/codeinwp/ti-onboarding/includes/class-themeisle-ob-admin.php:132
+msgid "Back to Sites Library"
+msgstr "Trở lại thư viện web"
+
+#: vendor/codeinwp/ti-onboarding/includes/class-themeisle-ob-admin.php:131
+msgid "View Website"
+msgstr "Xem website"
+
+#: vendor/codeinwp/ti-onboarding/includes/class-themeisle-ob-admin.php:130
+msgid "Loading"
+msgstr "Đang tải"
+
+#: vendor/codeinwp/ti-onboarding/includes/class-themeisle-ob-admin.php:129
+msgid "Cancel"
+msgstr "Huỷ bỏ"
+
+#: vendor/codeinwp/ti-onboarding/includes/class-themeisle-ob-admin.php:128
+msgid "Import"
+msgstr "Nhập"
+
+#: vendor/codeinwp/ti-onboarding/includes/class-themeisle-ob-admin.php:127
+msgid "Preview"
+msgstr "Xem thử"
+
+#: vendor/codeinwp/ti-onboarding/includes/class-themeisle-ob-admin.php:48
+msgid "Sites Library"
+msgstr "Thư viện site"
+
+#: inc/customizer/controls/ui/subscribe-info/class-hestia-subscribe-info.php:113
+#: inc/customizer/controls/ui/subscribe-info/class-hestia-subscribe-info.php:134
+msgid "Here is where you must add the \"SendinBlue Newsletter\" widget."
+msgstr "Đây là nơi bạn thêm widget \"SendinBlue Newsletter\"."
+
+#. translators: %s Path in plugin
+#: inc/customizer/controls/ui/subscribe-info/class-hestia-subscribe-info.php:125
+msgid "SendinBlue > Home"
+msgstr "SendinBlue > Trang chủ"
+
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:98
+msgid "Parallax"
+msgstr "Parallax"
+
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:338
+msgid "Second Layer"
+msgstr "Lớp thứ hai"
+
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:323
+msgid "First Layer"
+msgstr "Lớp thứ nhất"
+
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:366
+msgid "Extra"
+msgstr "Bổ sung"
+
+#. translators: %1$s is Time since, %2$s is Link to post
+#: inc/customizer/general/class-hestia-upsell-manager.php:169
+#: inc/customizer/general/class-hestia-upsell-manager.php:198
+#: inc/views/blog/class-hestia-blog-post-layout.php:351
+#: inc/views/blog/class-hestia-featured-posts.php:141
+#: inc/views/class-hestia-tweaks.php:71
+msgid "Read more"
+msgstr "Đọc tiếp"
+
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:50
+msgid "Featured Posts"
+msgstr "Bài viết nổi bật"
+
+#: functions.php:37
+msgid "Hey, we've noticed that you're running an outdated version of PHP which is no longer supported. Make sure your site is fast and secure, by upgrading PHP to the latest version."
+msgstr "Chúng tôi lưu ý rằng bạn đang sử dụng phien bản PHP quá cũ không còn được hỗ trợ. Hãy nâng cấp lên phiên bản PHP mới nhất để đảm bảo website nhanh và an toàn."
+
+#: inc/customizer/general/class-hestia-header-controls.php:254
+msgid "Header Settings"
+msgstr "Cài đặt đầu trang"
+
+#: inc/customizer/general/class-hestia-color-controls.php:43
+msgid "Header Gradient"
+msgstr "Header Gradient"
+
+#. translators: Upsell to get the pro version
+#. translators: %s Required action
+#: inc/admin/class-hestia-admin-notices-manager.php:39
+#: inc/customizer/general/class-hestia-upsell-manager.php:119
+msgid "Hestia front-page is not multi-language compatible, for this feature %s."
+msgstr "Trang chủ Hestia không tương thích đa ngôn ngữ, với tính năng này %s."
+
+#: inc/customizer/general/class-hestia-header-controls.php:39
+msgid "Enable Header Image Sitewide"
+msgstr "Bật ảnh tràn khung đầu trang"
+
+#: inc/core/class-hestia-public.php:329
+#: inc/customizer/class-hestia-customizer-main.php:81
+msgid "Header Background"
+msgstr "Nền đầu trang"
+
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:179
+#: inc/customizer/general/class-hestia-typography-controls.php:310
+#: inc/customizer/general/class-hestia-typography-controls.php:439
+#: vendor/codeinwp/ti-onboarding/includes/class-themeisle-ob-admin.php:140
+msgid "Content"
+msgstr "Nội dung"
+
+#: inc/customizer/general/class-hestia-typography-controls.php:201
+msgid "Posts & Pages"
+msgstr "Bài viết & Trang"
+
+#: inc/customizer/general/class-hestia-header-controls.php:109
+msgid "Enable Search in Menu"
+msgstr "Bật Tìm kiếm trong Menu"
+
+#: inc/customizer/general/class-hestia-general-controls.php:131
+msgid "Enable Scroll to Top"
+msgstr "Bật nút Trở về đầu trang"
+
+#: inc/customizer/controls/custom-controls/font-selector/class-hestia-font-selector.php:52
+msgctxt "label"
+msgid "Search for:"
+msgstr "Tìm kiếm:"
+
+#: inc/core/class-hestia-public.php:202
+msgid "Footer Four"
+msgstr "Footer Four"
+
+#. Template Name of the plugin/theme
+msgid "Page with Sidebar"
+msgstr "Trang với cột bên"
+
+#: inc/core/class-hestia-public.php:394
+#: inc/customizer/general/class-hestia-header-controls.php:71
+msgid "Menu"
+msgstr "Trình đơn"
+
+#. translators: 1 - link to customizer setting. 2 - 'customizer'
+#: inc/views/front-page/class-hestia-blog-section.php:59
+msgid "Change this subtitle in the %s."
+msgstr "Thay đổi phụ đề này trong %s."
+
+#. translators: 1 - link to customizer setting. 2 - 'customizer'
+#: inc/views/front-page/class-hestia-big-title-section.php:179
+#: inc/views/front-page/class-hestia-big-title-section.php:186
+msgid "Change in the %s"
+msgstr "Thay đổi trong %s"
+
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:274
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:100
+#: inc/customizer/general/class-hestia-header-controls.php:124
+#: inc/customizer/general/class-hestia-header-controls.php:172
+msgid "Layout"
+msgstr "Bố cục"
+
+#: inc/views/class-hestia-tweaks.php:166 inc/views/class-hestia-tweaks.php:170
+#: inc/views/class-hestia-tweaks.php:174
+msgid "Second"
+msgstr "Thứ hai"
+
+#: inc/core/class-hestia-public.php:187 inc/core/class-hestia-public.php:394
+#: inc/customizer/general/class-hestia-header-controls.php:71
+#: inc/customizer/general/class-hestia-header-controls.php:310
+msgid "Very Top Bar"
+msgstr "Thanh trên cùng"
+
+#: inc/core/class-hestia-public.php:188
+#: inc/customizer/general/class-hestia-header-controls.php:299
+msgid "Navigation"
+msgstr "Menu"
+
+#: inc/customizer/general/class-hestia-header-controls.php:25
+msgid "Header Options"
+msgstr "Tùy chỉnh đầu trang"
+
+#: inc/customizer/general/class-hestia-general-controls.php:110
+msgid "Enable Sharing Icons"
+msgstr "Bật biểu tượng chia sẻ"
+
+#: inc/customizer/general/class-hestia-typography-controls.php:77
+msgid "font size"
+msgstr "font size"
+
+#: inc/core/class-hestia-public.php:324 inc/core/class-hestia-public.php:368
+#: inc/core/class-hestia-public.php:369
+#: inc/customizer/general/class-hestia-typography-controls.php:146
+msgid "Body"
+msgstr "Body"
+
+#: inc/customizer/general/class-hestia-typography-controls.php:73
+#: inc/customizer/general/class-hestia-typography-controls.php:129
+#: inc/customizer/general/class-hestia-typography-controls.php:146
+msgid "font family"
+msgstr "font family"
+
+#: inc/core/class-hestia-public.php:374 inc/core/class-hestia-public.php:375
+#: inc/customizer/general/class-hestia-typography-controls.php:129
+#: inc/customizer/general/class-hestia-typography-controls.php:278
+msgid "Headings"
+msgstr "Tiêu đề"
+
+#: inc/customizer/general/class-hestia-typography-controls.php:173
+msgid "Font Subsets"
+msgstr "Bộ mã font"
+
+#: inc/customizer/general/class-hestia-typography-controls.php:50
+#: inc/customizer/general/class-hestia-upsell-manager.php:164
+msgid "Typography"
+msgstr "Kiểu chữ"
+
+#: inc/customizer/controls/custom-controls/font-selector/class-hestia-font-selector.php:59
+msgid "Google Fonts"
+msgstr "Phông Google"
+
+#: inc/customizer/controls/custom-controls/font-selector/class-hestia-font-selector.php:58
+msgid "Standard Fonts"
+msgstr "Phông tiêu chuẩn"
+
+#: inc/customizer/controls/custom-controls/font-selector/class-hestia-font-selector.php:47
+#: inc/customizer/controls/custom-controls/font-selector/class-hestia-font-selector.php:56
+msgid "Default"
+msgstr "Mặc định"
+
+#: inc/core/class-hestia-admin.php:257
+msgid "Display a frontpage section wherever you like by adding its shortcode in page or post content."
+msgstr "Hiển thị phần trang chủ bất cứ nơi nào bạn muốn bằng cách thêm mã ngắn vào trang hoặc nội dung bài đăng."
+
+#: inc/core/class-hestia-admin.php:256
+msgid "Shortcodes for each section"
+msgstr "Shortcode cho mỗi phần"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:36
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s Bình luận"
+
+#. translators: %s: post title
+#: comments.php:32
+msgctxt "comments title"
+msgid "One comment"
+msgstr "Một bình luận"
+
+#: inc/customizer/controls/ui/helper-plugin-install/class-hestia-plugin-install-helper.php:172
+#: vendor/codeinwp/ti-about-page/includes/class-ti-about-plugin-helper.php:173
+msgid "Activating "
+msgstr "Đang kích hoạt"
+
+#: inc/customizer/controls/ui/helper-plugin-install/class-hestia-plugin-install-helper.php:106
+#: vendor/codeinwp/ti-about-page/includes/class-ti-about-plugin-helper.php:108
+msgid "Install and activate"
+msgstr "Cài đặt và kích hoạt"
+
+#: inc/views/front-page/class-hestia-big-title-section.php:179
+#: inc/views/front-page/class-hestia-big-title-section.php:186
+#: inc/views/front-page/class-hestia-blog-section.php:59
+#: vendor/codeinwp/ti-onboarding/includes/class-themeisle-ob-admin.php:141
+msgid "Customizer"
+msgstr "Tuỳ chỉnh"
+
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:423
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:424
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:425
+#: inc/views/front-page/class-hestia-big-title-section.php:192
+msgid "Change in the Customizer"
+msgstr "Thay đổi trong Tùy chỉnh"
+
+#: inc/core/class-hestia-admin.php:251
+#: inc/customizer/general/class-hestia-upsell-manager.php:72
+msgid "The ability to reorganize your Frontpage Sections more easily and quickly."
+msgstr "Khả năng tổ chức lại các mục Trang chủ của bạn một cách dễ dàng và nhanh chóng hơn."
+
+#: inc/core/class-hestia-admin.php:59 inc/core/class-hestia-admin.php:62
+msgid "Go to the Customizer"
+msgstr "Đi đến Tùy chỉnh"
+
+#: inc/customizer/general/class-hestia-upsell-manager.php:71
+msgid "Drag and drop panels to change the order of sections."
+msgstr "Kéo và thả bảng để thay đổi thứ tự các phần."
+
+#: inc/customizer/general/class-hestia-upsell-manager.php:107
+msgid "The ability to reorganize your Frontpage sections more easily and quickly."
+msgstr "Khả năng tổ chức lại các mục Trang chủ của bạn một cách dễ dàng và nhanh chóng hơn."
+
+#: inc/customizer/controls/ui/class-hestia-control-upsell.php:72
+#: inc/customizer/controls/ui/class-hestia-section-upsell.php:84
+msgid "PRO"
+msgstr "PRO"
+
+#. Template Name of the plugin/theme
+msgid "Page Builder Full Width"
+msgstr "Trình tạo trang tràn khung"
+
+#. Template Name of the plugin/theme
+msgid "Page Builder Blank"
+msgstr "Trình tạo trang rỗng"
+
+#: inc/helpers/layout-functions.php:279
+#: inc/views/main/class-hestia-top-bar.php:68
+msgid "This sidebar is active but empty. In order to use this layout, please add widgets in the sidebar"
+msgstr "Cột bên này đang hoạt động nhưng chưa có nội dung nào. Để sử dụng bố cục này, vui lòng thêm các widget trong cột bên."
+
+#: inc/customizer/general/class-hestia-general-controls.php:88
+msgid "Blog Sidebar Layout"
+msgstr "Bố cục cột trong trang Blog"
+
+#: inc/admin/page-settings/class-hestia-page-settings.php:46
+#: inc/customizer/general/class-hestia-general-controls.php:196
+msgid "Right Sidebar"
+msgstr "Cột phải"
+
+#: inc/admin/page-settings/class-hestia-page-settings.php:42
+#: inc/customizer/general/class-hestia-general-controls.php:192
+msgid "Left Sidebar"
+msgstr "Cột trái"
+
+#: inc/admin/page-settings/class-hestia-page-settings.php:38
+#: inc/customizer/general/class-hestia-general-controls.php:188
+msgid "Full Width"
+msgstr "Toàn màn hình"
+
+#: inc/customizer/general/class-hestia-general-controls.php:65
+msgid "Page Sidebar Layout"
+msgstr "Bố cục cột bên của trang"
+
+#: inc/core/class-hestia-public.php:186
+msgid "WooCommerce Sidebar"
+msgstr "Bố cục cột bên của WooCommerce"
+
+#. Template Name of the plugin/theme
+msgid "Fullwidth Template"
+msgstr "Giao diện toàn màn hình"
+
+#: vendor/codeinwp/ti-about-page/class-ti-about-page.php:159
+msgid "Activating"
+msgstr "Đang kích hoạt"
+
+#: inc/views/blog/class-hestia-additional-views.php:117
+msgid "Tags: "
+msgstr "Thẻ:"
+
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:80
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:156
+#: inc/views/blog/class-hestia-additional-views.php:110
+msgid "Categories:"
+msgstr "Chuyên mục:"
+
+#: template-parts/content-none.php:39
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Nội dung bạn đang tìm kiếm có thể không tồn tại. Vui lòng thử chức năng tìm kiếm."
+
+#: template-parts/content-none.php:34
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Xin lỗi, nhưng không có kết quả phù hợp với cụm từ tìm kiếm của bạn. Vui lòng thử lại với một số từ khóa khác."
+
+#. translators: %1$s is Link to new post, %2$s is Get started here
+#: template-parts/content-none.php:25
+#: vendor/codeinwp/ti-onboarding/includes/class-themeisle-ob-admin.php:138
+msgid "Get started here"
+msgstr "Bắt đầu ở đây"
+
+#. translators: %s is Link to new post
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? %s."
+msgstr "Bạn đã sẵn sàng để đăng bài viết đầu tiên của bạn? %s."
+
+#. translators: %1$s is Time since post, %2$s is author Close tag
+#: inc/views/blog/class-hestia-blog-post-layout.php:304
+msgid "%1$s ago %2$s"
+msgstr "%1$s trước %2$s"
+
+#. translators: %1$s is Author name wrapped, %2$s is Time
+#: inc/views/blog/class-hestia-blog-post-layout.php:295
+msgid "By %1$s, %2$s"
+msgstr "Bởi %1$s, %2$s"
+
+#. translators: search result
+#: inc/views/blog/class-hestia-header-layout-manager.php:317
+msgid "Search Results for: %s"
+msgstr "Kết quả tìm kiếm cho: %s"
+
+#. translators: %d is number of items
+#: inc/compatibility/woocommerce/functions.php:69
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d mục"
+
+#: inc/compatibility/woocommerce/functions.php:65
+msgid "View your shopping cart"
+msgstr "Xem giỏ hàng của bạn"
+
+#: inc/views/blog/class-hestia-additional-views.php:89
+msgid "Share on Google+"
+msgstr "Chia sẻ trên Google+"
+
+#: inc/views/blog/class-hestia-additional-views.php:82
+msgid "Share on Twitter"
+msgstr "Chia sẻ trên Twitter"
+
+#: inc/views/blog/class-hestia-additional-views.php:75
+msgid "Share on Facebook"
+msgstr "Chia sẻ trên Facebook"
+
+#: inc/views/blog/class-hestia-additional-views.php:214
+msgid "Related Posts"
+msgstr "Bài viết liên quan"
+
+#: inc/helpers/layout-functions.php:132
+msgid "What's on your mind?"
+msgstr "Bạn đang nghĩ gì?"
+
+#: inc/views/class-hestia-tweaks.php:137
+msgid "Website"
+msgstr "Trang web"
+
+#: inc/views/class-hestia-tweaks.php:136
+msgid "Email"
+msgstr "Email"
+
+#: inc/views/class-hestia-tweaks.php:135
+msgid "Name"
+msgstr "Tên"
+
+#. translators: %s is Link to login
+#: inc/helpers/layout-functions.php:123
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Bạn phải <a href=\"%s\">đăng nhập</a> để bình luận."
+
+#: inc/helpers/layout-functions.php:186
+msgid "Reply"
+msgstr "Phản hồi"
+
+#: inc/customizer/controls/custom-controls/customizer-page-editor/class-hestia-page-editor.php:58
+#: inc/customizer/front-page/class-hestia-about-controls.php:161
+#: inc/helpers/layout-functions.php:175
+msgid "(Edit)"
+msgstr "(Sửa)"
+
+#. translators: %1$s is Date, %2$s is Time
+#: inc/helpers/layout-functions.php:171
+msgid "&#183; %1$s at %2$s"
+msgstr "&#183; %1$s lúc %2$s"
+
+#: inc/helpers/layout-functions.php:25
+msgid "Previous page"
+msgstr "Trang trước"
+
+#: inc/helpers/layout-functions.php:24
+msgid "Next page"
+msgstr "Trang sau"
+
+#. translators: %s is Category name
+#: inc/helpers/layout-functions.php:681
+msgid "View all posts in %s"
+msgstr "Xem toàn bộ các bài trong %s"
+
+#: inc/customizer/general/class-hestia-buttons-style-controls.php:46
+#: inc/views/class-hestia-tweaks.php:162 inc/views/class-hestia-tweaks.php:166
+msgid "Button"
+msgstr "Nút"
+
+#: inc/core/class-hestia-public.php:607
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+#: inc/core/class-hestia-public.php:606
+msgid "Lorem Ipsum"
+msgstr "Lorem Ipsum"
+
+#. translators: 1 - link to customizer setting. 2 - 'customizer'
+#: inc/views/front-page/class-hestia-contact-section.php:86
+#: inc/views/front-page/class-hestia-shop-section.php:68
+#: inc/views/front-page/class-hestia-subscribe-section.php:65
+msgid "Change this subtitle in %s."
+msgstr "Thay đổi phụ đề này trong %s."
+
+#: inc/views/front-page/class-hestia-contact-section.php:86
+#: inc/views/front-page/class-hestia-shop-section.php:68
+#: inc/views/front-page/class-hestia-subscribe-section.php:65
+msgid "customizer"
+msgstr "customizer"
+
+#: inc/customizer/general/class-hestia-upsell-manager.php:43
+msgid "View PRO Features"
+msgstr "Xem tính năng bản trả phí"
+
+#: inc/customizer/front-page/class-hestia-subscribe-controls.php:129
+#: inc/views/front-page/class-hestia-subscribe-section.php:69
+msgid "Subscribe to our Newsletter"
+msgstr "Theo dõi qua email"
+
+#: inc/core/class-hestia-public.php:185
+#: inc/customizer/front-page/class-hestia-subscribe-controls.php:21
+msgid "Subscribe"
+msgstr "Theo dõi"
+
+#: inc/customizer/front-page/class-hestia-shop-controls.php:83
+#: inc/views/front-page/class-hestia-shop-section.php:72
+msgid "Products"
+msgstr "Sản phẩm"
+
+#: inc/customizer/front-page/class-hestia-shop-controls.php:24
+msgid "Shop"
+msgstr "Cửa hàng"
+
+#: inc/customizer/general/class-hestia-general-controls.php:154
+msgid "If enabled, the theme will use a boxed layout."
+msgstr "Nếu được bật, giao diện sẽ có khung giới hạn nhỏ hơn cửa sổ trình duyệt."
+
+#: inc/customizer/general/class-hestia-general-controls.php:153
+msgid "Boxed Layout"
+msgstr "Bố cục khung cố định"
+
+#: inc/admin/page-settings/class-hestia-page-settings.php:145
+#: inc/customizer/front-page/class-hestia-contact-controls.php:53
+#: inc/customizer/front-page/class-hestia-subscribe-controls.php:52
+#: inc/customizer/general/class-hestia-general-controls.php:44
+msgid "General Settings"
+msgstr "Tùy chỉnh chung"
+
+#: inc/customizer/front-page/class-hestia-contact-controls.php:57
+#: inc/customizer/front-page/class-hestia-contact-controls.php:159
+msgid "Contact Content"
+msgstr "Nội dung liên hệ"
+
+#: inc/customizer/controls/ui/class-hestia-contact-info.php:35
+#: inc/customizer/front-page/class-hestia-subscribe-controls.php:111
+msgid "Instructions"
+msgstr "Hướng dẫn"
+
+#: inc/customizer/front-page/class-hestia-contact-controls.php:116
+msgid "Form Title"
+msgstr "Tiêu đề form"
+
+#: inc/customizer/front-page/class-hestia-contact-controls.php:111
+#: inc/helpers/layout-functions.php:721
+#: inc/views/front-page/class-hestia-contact-section.php:91
+msgid "Contact Us"
+msgstr "Liên hệ với chúng tôi"
+
+#: inc/customizer/front-page/class-hestia-contact-controls.php:221
+#: inc/views/front-page/class-hestia-contact-section.php:90
+msgid "Get in Touch"
+msgstr "Liên hệ"
+
+#: inc/customizer/front-page/class-hestia-contact-controls.php:94
+#: inc/customizer/front-page/class-hestia-subscribe-controls.php:91
+msgid "Background Image"
+msgstr "Ảnh nền"
+
+#: inc/customizer/front-page/class-hestia-contact-controls.php:21
+msgid "Contact"
+msgstr "Liên hệ"
+
+#: inc/core/class-hestia-public.php:319
+#: inc/customizer/general/class-hestia-color-controls.php:25
+msgid "Accent Color"
+msgstr "Màu chính"
+
+#: inc/customizer/front-page/class-hestia-blog-section-controls.php:46
+#: inc/customizer/front-page/class-hestia-shop-controls.php:52
+msgid "Number of Items"
+msgstr "Số lượng mục"
+
+#: inc/core/abstract/class-hestia-front-page-section-controls-abstract.php:120
+#: inc/customizer/general/class-hestia-typography-controls.php:408
+msgid "Section Subtitle"
+msgstr "Phụ đề mục"
+
+#: inc/core/abstract/class-hestia-front-page-section-controls-abstract.php:106
+#: inc/customizer/general/class-hestia-typography-controls.php:377
+msgid "Section Title"
+msgstr "Tiêu đề mục"
+
+#: inc/customizer/front-page/class-hestia-blog-section-controls.php:21
+#: inc/customizer/front-page/class-hestia-blog-section-controls.php:79
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:100
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:156
+#: inc/views/front-page/class-hestia-blog-section.php:63
+msgid "Blog"
+msgstr "Blog"
+
+#: inc/customizer/front-page/class-hestia-blog-section-controls.php:80
+#: inc/customizer/front-page/class-hestia-contact-controls.php:222
+#: inc/customizer/front-page/class-hestia-shop-controls.php:84
+#: inc/customizer/front-page/class-hestia-subscribe-controls.php:130
+msgid "Change this subtitle in the Customizer"
+msgstr "Thay đổi phụ đề này trong Tuỳ chỉnh"
+
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:242
+msgid "Button URL"
+msgstr "URL của nút"
+
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:227
+#: inc/views/class-hestia-tweaks.php:170
+msgid "Button text"
+msgstr "Chữ của nút"
+
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:95
+#: inc/customizer/general/class-hestia-upsell-manager.php:193
+msgid "Big Title Background"
+msgstr "Nền tiêu đề lớn"
+
+#: inc/core/class-hestia-public.php:189
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:22
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:130
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:362
+#: inc/customizer/general/class-hestia-typography-controls.php:347
+msgid "Big Title Section"
+msgstr "Tiêu đề lớn của mục"
+
+#: inc/customizer/front-page/class-hestia-about-controls.php:111
+#: inc/customizer/front-page/class-hestia-about-controls.php:158
+msgid "About Content"
+msgstr "Nội dung giới thiệu"
+
+#: inc/compatibility/page-builder/class-hestia-beaver-builder-compatibility.php:125
+#: inc/compatibility/page-builder/class-hestia-elementor-compatibility.php:122
+#: inc/core/abstract/class-hestia-front-page-section-controls-abstract.php:92
+#: inc/customizer/front-page/class-hestia-about-controls.php:56
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:59
+#: inc/customizer/general/class-hestia-header-controls.php:55
+msgid "Disable section"
+msgstr "Tắt mục"
+
+#: inc/customizer/front-page/class-hestia-about-controls.php:32
+#: vendor/codeinwp/ti-about-page/class-ti-about-page.php:101
+#: vendor/codeinwp/ti-about-page/class-ti-about-page.php:103
+msgid "About"
+msgstr "Giới thiệu"
+
+#: inc/customizer/class-hestia-customizer-notices.php:158
+msgid "Recommended Plugins"
+msgstr "Plugin được đề xuất"
+
+#. translators: Orbit Fox Companion
+#: inc/customizer/class-hestia-customizer-notices.php:163
+msgid "If you want to take full advantage of the options this theme has to offer, please install and activate %s."
+msgstr "Nếu bạn muốn tận dụng đầy đủ các tùy chọn mà giao diện này cung cấp, vui lòng cài đặt và kích hoạt %s."
+
+#: inc/core/class-hestia-admin.php:77
+msgid "It is highly recommended that you install the companion plugin to have access to the Frontpage features, Team and Testimonials sections."
+msgstr "Chúng tôi khuyên bạn nên cài đặt plugin được hỗ trợ kèm theo để có quyền truy cập vào các mục trong Trang chủ, Giới thiệu nhóm và Đánh giá."
+
+#: inc/customizer/controls/ui/helper-plugin-install/class-hestia-plugin-install-helper.php:125
+#: vendor/codeinwp/ti-about-page/includes/class-ti-about-plugin-helper.php:127
+msgid "Deactivate"
+msgstr "Tắt"
+
+#: inc/customizer/controls/ui/helper-plugin-install/class-hestia-plugin-install-helper.php:110
+#: inc/customizer/controls/ui/helper-plugin-install/class-hestia-plugin-install-helper.php:130
+#: vendor/codeinwp/ti-about-page/includes/class-ti-about-plugin-helper.php:112
+#: vendor/codeinwp/ti-about-page/includes/class-ti-about-plugin-helper.php:132
+msgid "Activate"
+msgstr "Kích hoạt"
+
+#: inc/core/class-hestia-admin.php:287
+#: inc/customizer/general/class-hestia-upsell-manager.php:73
+msgid "24/7 HelpDesk Professional Support"
+msgstr "Hỗ trợ chuyên nghiệp 24/7"
+
+#: inc/core/class-hestia-admin.php:286
+#: inc/customizer/general/class-hestia-upsell-manager.php:64
+msgid "Quality Support"
+msgstr "Hỗ trợ chất lượng"
+
+#: inc/core/class-hestia-admin.php:269
+#: inc/customizer/general/class-hestia-upsell-manager.php:68
+msgid "Change colors for the header overlay, header text and navbar."
+msgstr "Thay đổi màu sắc cho lớp phủ đầu trang, tiêu đề và menu."
+
+#: inc/core/class-hestia-admin.php:268
+#: inc/customizer/general/class-hestia-upsell-manager.php:60
+msgid "Fully Customizable Colors"
+msgstr "Màu sắc hoàn toàn tùy biến"
+
+#: inc/core/class-hestia-admin.php:263
+#: inc/customizer/general/class-hestia-upsell-manager.php:67
+msgid "You will be able to add more content to your site header with an awesome slider."
+msgstr "Bạn sẽ có thể thêm nhiều nội dung hơn vào tiêu đề trang web bằng chức năng slider."
+
+#: inc/core/class-hestia-admin.php:262
+#: inc/customizer/general/class-hestia-upsell-manager.php:59
+msgid "Header Slider"
+msgstr "Slider đầu trang"
+
+#: inc/core/class-hestia-admin.php:245
+msgid "You can use any background image you want."
+msgstr "Bạn có thể sử dụng bất kỳ hình nền nào bạn muốn."
+
+#: inc/core/class-hestia-admin.php:244
+msgid "Background image"
+msgstr "Hình nền"
+
+#: inc/core/class-hestia-admin.php:239
+msgid "Big title, Features, About, Team, Testimonials, Subscribe, Blog, Contact"
+msgstr "Tiêu đề lớn, Giới thiệu về Tính năng, Giới thiệu chung, Đội nhóm, Đánh giá từ khách hàng, Đăng ký theo dõi qua email, Blog, Form liên hệ"
+
+#: inc/core/class-hestia-admin.php:233
+msgid "Ready for e-commerce. You can build an online store here."
+msgstr "Sẵn sàng cho thương mại điện tử. Bạn có thể xây dựng một cửa hàng trực tuyến ở đây."
+
+#: inc/core/class-hestia-admin.php:232
+msgid "WooCommerce Compatible"
+msgstr "Tương thích với WooCommerce"
+
+#: inc/core/class-hestia-admin.php:227
+msgid "Responsive layout. Works on every device."
+msgstr "Bố cục hỗ trợ thiết bị di động. Làm việc trên mọi kích thước màn hình."
+
+#: inc/core/class-hestia-admin.php:226
+msgid "Mobile friendly"
+msgstr "Tương thích thiết bị di động"
+
+#. translators: s - theme name
+#: inc/core/class-hestia-admin.php:219
+msgid "Get %s now!"
+msgstr "Nhận %s ngay bây giờ!"
+
+#: inc/core/class-hestia-admin.php:60
+msgid "Using the WordPress Customizer you can easily customize every aspect of the theme."
+msgstr "Sử dụng chức năng Tuỳ chỉnh bạn có thể dễ dàng thay đổi nhiều phần của giao diện."
+
+#: inc/core/class-hestia-admin.php:40
+msgid "We have compiled a list of steps for you to take so we can ensure that the experience you have using one of our products is very easy to follow."
+msgstr "Chúng tôi đã liệt kê danh sách các bước để bạn thực hiện vì vậy chúng tôi tin rằng trải nghiệm bạn sử dụng một trong các sản phẩm của chúng tôi rất dễ thực hiện."
+
+#: inc/core/class-hestia-admin.php:39 inc/core/class-hestia-admin.php:42
+#: vendor/codeinwp/ti-about-page/includes/class-ti-about-render.php:344
+msgid "Recommended actions"
+msgstr "Hành động được đề xuất"
+
+#: inc/core/class-hestia-admin.php:167
+msgid "In the documentation below you will find an easy way to build a great looking landing page using a drag-and-drop content builder plugin."
+msgstr "Trong tài liệu dưới đây, bạn sẽ tìm thấy một cách dễ dàng để xây dựng trang landing page đang tìm kiếm bằng cách sử dụng plugin trình tạo nội dung kéo và thả."
+
+#: inc/core/class-hestia-admin.php:166
+msgid "Build a landing page with a drag-and-drop content builder"
+msgstr "Xây dựng trang đích với trình tạo nội dung kéo và thả"
+
+#: inc/core/class-hestia-admin.php:156
+msgid "If you find yourself in a situation where everything on your site is running very slowly, you might consider having a look at the documentation below where you will find the most common issues causing this and possible solutions for each of the issues."
+msgstr "Nếu bạn thấy mình đang ở trong tình huống mà mọi thứ trên trang web của bạn đang chạy rất chậm thì bạn có thể xem xét tài liệu bên dưới nơi bạn sẽ tìm thấy các sự cố phổ biến nhất gây ra giải pháp này và có thể cho từng vấn đề."
+
+#: inc/core/class-hestia-admin.php:155
+msgid "Speed up your site"
+msgstr "Tăng tốc website"
+
+#: inc/core/class-hestia-admin.php:147 inc/core/class-hestia-admin.php:158
+#: inc/core/class-hestia-admin.php:169
+msgid "View how to do this"
+msgstr "Xem cách làm điều này"
+
+#: inc/core/class-hestia-admin.php:145
+msgid "If you want to make changes to the theme's files, those changes are likely to be overwritten when you next update the theme. In order to prevent that from happening, you need to create a child theme. For this, please follow the documentation below."
+msgstr "Nếu bạn muốn thay đổi các file của giao diện, những thay đổi này có thể sẽ bị ghi đè khi bạn tiếp tục cập nhật giao diện. Để ngăn chặn điều đó xảy ra, bạn cần tạo một giao diện con riêng. Đối với điều này, hãy làm theo các tài liệu dưới đây."
+
+#: inc/core/class-hestia-admin.php:144
+msgid "Create a child theme"
+msgstr "Tạo giao diện con"
+
+#: inc/core/class-hestia-admin.php:134
+msgid "Want to get the gist on the latest theme changes? Just consult our changelog below to get a taste of the recent fixes and features implemented."
+msgstr "Bạn muốn biết những thay đổi của giao diện mới nhất? Chỉ cần tham khảo nhật ký của chúng tôi dưới đây để nắm được các chỉnh sửa của những lần nâng cấp gần đây và các tính năng thực hiện."
+
+#: inc/core/class-hestia-admin.php:49 inc/core/class-hestia-admin.php:125
+#: inc/customizer/controls/ui/subscribe-info/class-hestia-subscribe-info.php:137
+msgid "Read full documentation"
+msgstr "Đọc tài liệu đầy đủ"
+
+#: inc/core/class-hestia-admin.php:50 inc/core/class-hestia-admin.php:123
+#: inc/core/class-hestia-public.php:545
+msgid "Need more details? Please check our full documentation for detailed information on how to use Hestia."
+msgstr "Cần thêm chi tiết? Vui lòng kiểm tra tài liệu đầy đủ của chúng tôi để biết thông tin chi tiết về cách sử dụng Hestia."
+
+#: inc/core/class-hestia-admin.php:112
+msgid "We want to make sure you have the best experience using Hestia, and that is why we have gathered all the necessary information here for you. We hope you will enjoy using Hestia as much as we enjoy creating great products."
+msgstr "Chúng tôi muốn đảm bảo bạn có trải nghiệm tốt nhất bằng cách sử dụng Hestia và đó là lý do tại sao chúng tôi thu thập được tất cả thông tin cần thiết ở đây cho bạn. Chúng tôi hy vọng bạn sẽ thích sử dụng Hestia nhiều như chúng ta thích tạo ra các sản phẩm tuyệt vời."
+
+#: inc/core/class-hestia-admin.php:111 inc/core/class-hestia-admin.php:114
+msgid "Contact Support"
+msgstr "Liên hệ hỗ trợ"
+
+#: inc/core/class-hestia-admin.php:183
+msgid "Free vs PRO"
+msgstr "Miễn phí và PRO"
+
+#: inc/core/class-hestia-admin.php:133 inc/core/class-hestia-admin.php:136
+#: inc/core/class-hestia-admin.php:179
+msgid "Changelog"
+msgstr "Các thay đổi"
+
+#: inc/core/class-hestia-admin.php:107
+msgid "Support"
+msgstr "Hỗ trợ"
+
+#: inc/core/class-hestia-admin.php:93
+msgid "Useful Plugins"
+msgstr "Plugin hữu dụng"
+
+#: inc/core/class-hestia-admin.php:72
+msgid "Recommended Actions"
+msgstr "Hành động được đề xuất"
+
+#: inc/core/class-hestia-admin.php:36
+msgid "Getting Started"
+msgstr "Bắt đầu"
+
+#: inc/core/class-hestia-public.php:545
+msgid "About Hestia"
+msgstr "Về giao diện Hestia"
+
+#: inc/customizer/class-hestia-customizer-main.php:67
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:31
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:137
+msgid "Blog Settings"
+msgstr "Cài đặt Blog"
+
+#: inc/core/class-hestia-admin.php:238
+#: inc/customizer/class-hestia-customizer-main.php:56
+#: inc/customizer/general/class-hestia-general-controls.php:170
+#: inc/customizer/general/class-hestia-typography-controls.php:216
+msgid "Frontpage Sections"
+msgstr "Các mục trong trang chủ"
+
+#: inc/customizer/class-hestia-customizer-main.php:46
+msgid "Appearance Settings"
+msgstr "Cài đặt hiển thị"
+
+#: inc/core/class-hestia-admin.php:281
+#: inc/customizer/general/class-hestia-upsell-manager.php:70
+#: inc/customizer/general/class-hestia-upsell-manager.php:106
+msgid "A fully customizable pricing plans section."
+msgstr "Phần bảng giá với đầy đủ các tuỳ chỉnh."
+
+#: inc/core/class-hestia-admin.php:275
+#: inc/customizer/general/class-hestia-upsell-manager.php:69
+#: inc/customizer/general/class-hestia-upsell-manager.php:105
+msgid "Portfolio section with two possible layouts."
+msgstr "Phần portfolio với hai tuỳ chỉnh bố cục."
+
+#: inc/admin/class-hestia-admin-notices-manager.php:39
+#: inc/customizer/general/class-hestia-upsell-manager.php:76
+#: inc/customizer/general/class-hestia-upsell-manager.php:119
+#: inc/customizer/general/class-hestia-upsell-manager.php:122
+msgid "Get the PRO version!"
+msgstr "Chuyển sang phiên bản PRO!"
+
+#: inc/core/class-hestia-admin.php:250
+#: inc/customizer/general/class-hestia-upsell-manager.php:63
+#: inc/customizer/general/class-hestia-upsell-manager.php:112
+msgid "Section Reordering"
+msgstr "Sắp xếp lại phần"
+
+#: inc/core/class-hestia-admin.php:280
+#: inc/customizer/general/class-hestia-upsell-manager.php:62
+#: inc/customizer/general/class-hestia-upsell-manager.php:111
+msgid "Pricing Plans Section"
+msgstr "Mục bảng giá"
+
+#: inc/core/class-hestia-admin.php:274
+#: inc/customizer/controls/ui/helper-plugin-install/class-hestia-plugin-install-helper.php:130
+#: inc/customizer/general/class-hestia-upsell-manager.php:61
+#: inc/customizer/general/class-hestia-upsell-manager.php:110
+#: vendor/codeinwp/ti-about-page/includes/class-ti-about-plugin-helper.php:132
+msgid "Jetpack Portfolio"
+msgstr "Danh mục Jetpack"
+
+#: inc/core/class-hestia-admin.php:52 inc/core/class-hestia-admin.php:122
+#: inc/customizer/class-hestia-customizer-notices.php:80
+msgid "Documentation"
+msgstr "Tài liệu"
+
+#. translators: %s Path in plugin wrapped
+#: inc/customizer/controls/ui/subscribe-info/class-hestia-subscribe-info.php:121
+msgid "After installing the plugin, you need to navigate to %s and configure the plugin."
+msgstr "Sau khi cài đặt plugin, bạn cần điều hướng đến %s và định cấu hình plugin."
+
+#: inc/customizer/front-page/class-hestia-subscribe-controls.php:55
+msgid "SendinBlue plugin"
+msgstr "Plugin SendinBlue"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:792
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:830
+msgid "Add Icon"
+msgstr "Thêm Biểu tượng"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:787
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:824
+msgid "Remove Icon"
+msgstr "Bỏ Biểu tượng"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:756
+msgid "Social icons"
+msgstr "Biểu tượng mạng xã hội"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:742
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:158
+msgid "None"
+msgstr "Không"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:737
+msgid "Image type"
+msgstr "Kiểu ảnh"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:724
+msgid "Upload Image"
+msgstr "Tải ảnh lên"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:721
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:741
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:97
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:152
+msgid "Image"
+msgstr "Ảnh"
+
+#. translators: Fontawesome link with full list of icons available
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:685
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:763
+msgid "http://fontawesome.io/icons/"
+msgstr "http://fontawesome.io/icons/"
+
+#. translators: Fontawesome link with full list of icons available
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:683
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:761
+msgid "Note: Some icons may not be displayed here. You can see the full list of icons at %1$s."
+msgstr "Lưu ý: Một số biểu tượng có thể không được hiển thị ở đây. Bạn có thể xem danh sách đầy đủ các biểu tượng tại %1$s."
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:677
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:740
+msgid "Icon"
+msgstr "Biểu tượng"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:489
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:605
+msgid "Delete field"
+msgstr "Xóa mục nhập"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:469
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:593
+#: inc/customizer/front-page/class-hestia-contact-controls.php:185
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:437
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:458
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:566
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:584
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:784
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:810
+#: inc/views/class-hestia-tweaks.php:174
+msgid "Link"
+msgstr "Liên kết"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:427
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:448
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:557
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:575
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:200
+msgid "Text"
+msgstr "Chữ"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:417
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:548
+msgid "Subtitle"
+msgstr "Phụ đề"
+
+#: inc/core/class-hestia-public.php:380 inc/core/class-hestia-public.php:381
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:407
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:539
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:75
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:179
+#: inc/customizer/general/class-hestia-typography-controls.php:245
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:384
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:396
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:519
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:529
+#: inc/views/class-hestia-tweaks.php:162 inc/views/class-hestia-tweaks.php:166
+msgid "Color"
+msgstr "Màu"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:148
+msgid "Customizer Repeater"
+msgstr "Tuỳ chỉnh repeater"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:143
+msgid "Add new field"
+msgstr "Thêm trường mới"
+
+#: inc/customizer/front-page/class-hestia-about-controls.php:134
+msgid "About background"
+msgstr "Hình nền giới thiệu"
+
+#: inc/customizer/class-hestia-customizer-notices.php:114
+msgid "WooCommerce plugin"
+msgstr "Plugin WooCommerce"
+
+#. translators: %1$s is Plugin Name
+#: inc/customizer/class-hestia-customizer-notices.php:113
+msgid "To have access to a shop section please install and configure %1$s."
+msgstr "Để có quyền truy cập vào một phần của cửa hàng, vui lòng cài đặt và cấu hình %1$s."
+
+#. translators: %1$s is Plugin name
+#: inc/helpers/layout-functions.php:728
+msgid "In order to add a contact form to this section, you need to install the %s plugin."
+msgstr "Để thêm một form liên hệ vào phần này, bạn cần phải cài đặt plugin %s."
+
+#: inc/views/main/class-hestia-header.php:108
+msgid "Toggle Navigation"
+msgstr "Chuyển đổi Danh mục chính"
+
+#: inc/views/class-hestia-tweaks.php:158
+msgid "Button Text"
+msgstr "Tên nút"
+
+#: inc/compatibility/woocommerce/functions.php:412
+#: inc/core/class-hestia-public.php:441
+msgid "View cart"
+msgstr "Xem giỏ hàng"
+
+#: inc/core/class-hestia-public.php:656
+msgctxt "Roboto Slab font: on or off"
+msgid "on"
+msgstr "on"
+
+#: inc/core/class-hestia-public.php:655
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr "on"
+
+#: inc/core/class-hestia-public.php:201
+msgid "Footer Three"
+msgstr "Footer Three"
+
+#: inc/core/class-hestia-public.php:200
+msgid "Footer Two"
+msgstr "Footer Two"
+
+#: inc/core/class-hestia-public.php:199
+msgid "Footer One"
+msgstr "Footer One"
+
+#: inc/core/class-hestia-public.php:609
+msgid "Blog Subscribe Section"
+msgstr "Phần theo dõi qua email"
+
+#: inc/admin/page-settings/class-hestia-page-settings.php:34
+#: inc/core/class-hestia-public.php:184
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:130
+msgid "Sidebar"
+msgstr "Cột bên"
+
+#: inc/core/class-hestia-public.php:393
+msgid "Footer Menu"
+msgstr "Menu cuối trang"
+
+#: inc/core/class-hestia-public.php:392 inc/core/class-hestia-public.php:568
+msgid "Primary Menu"
+msgstr "Menu chính"
+
+#. #-#-#-#-#  hestia.pot (Hestia 2.0.12)  #-#-#-#-#
+#. Theme Name of the plugin/theme
+#: inc/core/class-hestia-public.php:608
+#: inc/customizer/class-hestia-customizer-notices.php:78
+#: inc/views/main/class-hestia-footer.php:129
+msgid "Hestia"
+msgstr "Hestia"
+
+#: comments.php:73
+msgid "Comments are closed."
+msgstr "Chức năng bình luận bị đóng."
+
+#. translators: %s is Image sizes for attachment single page.
+#: attachment.php:48
+msgid "Size: %s"
+msgstr "Cỡ: %s"
+
+#. translators: %1$s is Author name wrapped, %2$s is Date
+#: inc/views/blog/class-hestia-header-layout-manager.php:383
+msgid "Published by %1$s on %2$s"
+msgstr "Đăng bởi %1$s vào %2$s"
+
+#. #-#-#-#-#  hestia.pot (Hestia 2.0.12)  #-#-#-#-#
+#. translators: %1$s is URL, %2$s is WordPress
+#. #-#-#-#-#  hestia.pot (Hestia 2.0.12)  #-#-#-#-#
+#. Author URI of the plugin/theme
+#: inc/views/main/class-hestia-footer.php:133
+msgid "https://themeisle.com"
+msgstr "https://themeisle.com"
+
+#. Author of the plugin/theme
+msgid "ThemeIsle"
+msgstr "ThemeIsle"
+
+#. Theme URI of the plugin/theme
+msgid "https://themeisle.com/themes/hestia/"
+msgstr "https://themeisle.com/themes/hestia/"

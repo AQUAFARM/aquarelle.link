@@ -1,0 +1,1227 @@
+# Translation of Themes - Hestia in Finnish
+# This file is distributed under the same license as the Themes - Hestia package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-09-17 17:14:42+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fi\n"
+"Project-Id-Version: Themes - Hestia\n"
+
+#. Description of the plugin/theme
+msgid "Hestia is a modern WordPress theme for professionals. It fits creative business, small businesses (restaurants, wedding planners, sport/medical shops), startups, corporate businesses, online agencies and firms, portfolios, ecommerce (WooCommerce), and freelancers. It has a multipurpose one-page design, widgetized footer, blog/news page and a clean look, is compatible with: Flat Parallax Slider, Photo Gallery, Travel Map and Elementor Page Builder . The theme is responsive, WPML, Retina ready, SEO friendly, and uses Material Kit for design."
+msgstr "Hestia on moderni WordPress teema ammattilaisille. Se sopii luoville aloille, pienille yrityksille (ravintoloille, hääsuunnittelijoille, urheilusivustoille, lääketieteen aloille), startupeille, korporaatioille, mainostoimistoille ja yrityksille, portfoliokäyttöön, verkkokauppakäytttöön ja freelancereille. Teemassa on monikäyttöinen yhden sivun design, footer jota voi käyttää vimpainkäyttöön, blogi/uutisalue ja yksinkertainen ja selkeä ulkoasu. Teema on yhteensopiva seuraavien kanssa: Flat Parallax Slider, Photo Gallery, Travel Map ja Elementor Page Builder. Teema on responsiivinen ja sisältää tuen WPML:ään, retinanäytöille, hakukoneille ja käyttää Material Kitiä design-elementeissään."
+
+#. translators: %1$s is Theme Name, %2$s is WordPress
+#: inc/views/main/class-hestia-footer.php:128
+msgid "%1$s | Developed by %2$s"
+msgstr "%1$s | Kehittänyt %2$s"
+
+#. translators: %s is Feature name
+#. translators: %s Feature name
+#: inc/customizer/general/class-hestia-upsell-manager.php:163
+#: inc/customizer/general/class-hestia-upsell-manager.php:192
+msgid "More Options Available for %s in the PRO version."
+msgstr "Lisää asetuksia on saatavilla %s PRO versiossa."
+
+#: inc/customizer/general/class-hestia-general-controls.php:170
+msgid "Disable"
+msgstr "Poista käytöstä"
+
+#: inc/customizer/general/class-hestia-buttons-style-controls.php:108
+msgid "Border radius"
+msgstr "Reunuksen pyöristys"
+
+#: inc/customizer/general/class-hestia-buttons-style-controls.php:83
+msgid "Padding (px)"
+msgstr "Reunuksen välistys (padding) (px)"
+
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:223
+msgid "Infinite Scroll"
+msgstr "Loputon rullaus (Infinite Scroll)"
+
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:222
+msgid "Number"
+msgstr "Lukumäärä"
+
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:217
+msgid "Post Pagination"
+msgstr "Artikkeleiden sivutus"
+
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:178
+msgid "Excerpt"
+msgstr "Ote"
+
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:201
+msgid "Excerpt length"
+msgstr "Otteen pituus"
+
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:176
+msgid "Blog Post Content"
+msgstr "Blogiartikkelin sisältö"
+
+#: inc/content-import/class-hestia-import-zerif-frontpage.php:90
+msgid "Import Zerif Front page as template "
+msgstr "Tuo Zerif Front sivu sivupohjaksi"
+
+#: inc/content-import/class-hestia-import-zerif-frontpage.php:86
+msgid "But first, we need to install and activate Elementor."
+msgstr "Mutta ensin meidän täytyy asentaa ja aktivoida Elementor."
+
+#: inc/content-import/class-hestia-import-zerif-frontpage.php:83
+msgid "We can help you convert your Zerif front page into an Elementor template, so you can use it again."
+msgstr "Voimme auttaa sinua muuntamaan Zerif etusivusi Elementor-sivupohjaksi, jotta voit käyttää sitä uudestaan."
+
+#: inc/content-import/class-hestia-import-zerif-frontpage.php:82
+msgid "We detected that you previously had Zerif installed."
+msgstr "Havaitsimme, että sinulla on aikaisemmin ollut Zerif asennettuna."
+
+#: vendor/codeinwp/ti-onboarding/includes/class-themeisle-ob-admin.php:150
+msgid "Content was successfully imported. Enjoy your new site!"
+msgstr "Sisällön tuonti onnistui. Nauti uudesta sivustostasi!"
+
+#: vendor/codeinwp/ti-onboarding/includes/class-themeisle-ob-admin.php:149
+msgid "We recommend you backup your website content before attempting a full site import."
+msgstr "Suosittelemme, että varmuuskopioit verkkosivuston sisällön ennen koko sivuston tuonnin yrittämistä."
+
+#: vendor/codeinwp/ti-onboarding/includes/class-themeisle-ob-admin.php:147
+msgid "Importing Widgets"
+msgstr "Tuodaan Vimpaimia"
+
+#: vendor/codeinwp/ti-onboarding/includes/class-themeisle-ob-admin.php:146
+msgid "Setting Up Customizer"
+msgstr "Määritetään mukautinta"
+
+#: vendor/codeinwp/ti-onboarding/includes/class-themeisle-ob-admin.php:145
+msgid "Importing Content"
+msgstr "Tuodaan sisältöä"
+
+#: vendor/codeinwp/ti-onboarding/includes/class-themeisle-ob-admin.php:144
+msgid "Installing Plugins"
+msgstr "Asennetaan lisäosia"
+
+#: vendor/codeinwp/ti-onboarding/includes/class-themeisle-ob-admin.php:142
+msgid "Widgets"
+msgstr "Vimpaimet"
+
+#: vendor/codeinwp/ti-onboarding/includes/class-themeisle-ob-admin.php:139
+msgid "This process will set up your website, install required plugins, import demo content (pages, posts, media) and set up the customizer options."
+msgstr "Tämä prosessi asentaa sivuston, asentaa vaaditut lisäosat, tuo demosisällöt (sivut, artikkelit, media) ja asentaa mukauttimen asetukset."
+
+#: vendor/codeinwp/ti-onboarding/includes/class-themeisle-ob-admin.php:136
+msgid "General"
+msgstr "Yleiset"
+
+#: vendor/codeinwp/ti-onboarding/includes/class-themeisle-ob-admin.php:135
+msgid "Plugins"
+msgstr "Lisäosat"
+
+#: vendor/codeinwp/ti-onboarding/includes/class-themeisle-ob-admin.php:134
+msgid "Advanced Options"
+msgstr "Edistyneet asetukset"
+
+#: vendor/codeinwp/ti-onboarding/includes/class-themeisle-ob-admin.php:133
+msgid "Note"
+msgstr "Huomautus"
+
+#: vendor/codeinwp/ti-onboarding/includes/class-themeisle-ob-admin.php:132
+msgid "Back to Sites Library"
+msgstr "Takaisin Sivuston kirjastoon"
+
+#: vendor/codeinwp/ti-onboarding/includes/class-themeisle-ob-admin.php:131
+msgid "View Website"
+msgstr "Näytä verkkosivusto"
+
+#: vendor/codeinwp/ti-onboarding/includes/class-themeisle-ob-admin.php:130
+msgid "Loading"
+msgstr "Ladataan"
+
+#: vendor/codeinwp/ti-onboarding/includes/class-themeisle-ob-admin.php:129
+msgid "Cancel"
+msgstr "Peruuta"
+
+#: vendor/codeinwp/ti-onboarding/includes/class-themeisle-ob-admin.php:128
+msgid "Import"
+msgstr "Tuo"
+
+#: vendor/codeinwp/ti-onboarding/includes/class-themeisle-ob-admin.php:127
+msgid "Preview"
+msgstr "Esikatselu"
+
+#: vendor/codeinwp/ti-onboarding/includes/class-themeisle-ob-admin.php:48
+msgid "Sites Library"
+msgstr "Sivustot Kirjasto"
+
+#: inc/customizer/controls/ui/subscribe-info/class-hestia-subscribe-info.php:113
+#: inc/customizer/controls/ui/subscribe-info/class-hestia-subscribe-info.php:134
+msgid "Here is where you must add the \"SendinBlue Newsletter\" widget."
+msgstr "Tässä sinun täytyy lisätä \"SendinBlue Newsletter\" vimpain."
+
+#. translators: %s Path in plugin
+#: inc/customizer/controls/ui/subscribe-info/class-hestia-subscribe-info.php:125
+msgid "SendinBlue > Home"
+msgstr "Sendinblue > Etusivu"
+
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:98
+msgid "Parallax"
+msgstr "Parallax-tehoste"
+
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:338
+msgid "Second Layer"
+msgstr "Toinen kerros"
+
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:323
+msgid "First Layer"
+msgstr "Ensimmäinen kerros"
+
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:366
+msgid "Extra"
+msgstr "Lisää"
+
+#. translators: %1$s is Time since, %2$s is Link to post
+#: inc/customizer/general/class-hestia-upsell-manager.php:169
+#: inc/customizer/general/class-hestia-upsell-manager.php:198
+#: inc/views/blog/class-hestia-blog-post-layout.php:351
+#: inc/views/blog/class-hestia-featured-posts.php:141
+#: inc/views/class-hestia-tweaks.php:71
+msgid "Read more"
+msgstr "Lue lisää"
+
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:50
+msgid "Featured Posts"
+msgstr "Suositellut artikkelit"
+
+#: functions.php:37
+msgid "Hey, we've noticed that you're running an outdated version of PHP which is no longer supported. Make sure your site is fast and secure, by upgrading PHP to the latest version."
+msgstr "Hei, huomasimme että palvelimellasi on erääntynyt PHP-versio, jota ei enää tueta. Varmista että sivustosi on nopea ja turvallinen asentamalla uusin PHP-versio."
+
+#: inc/customizer/general/class-hestia-header-controls.php:254
+msgid "Header Settings"
+msgstr "Ylätunnisteen asetukset"
+
+#: inc/customizer/general/class-hestia-color-controls.php:43
+msgid "Header Gradient"
+msgstr "Ylätunnisteen liukuväri"
+
+#. translators: Upsell to get the pro version
+#. translators: %s Required action
+#: inc/admin/class-hestia-admin-notices-manager.php:39
+#: inc/customizer/general/class-hestia-upsell-manager.php:119
+msgid "Hestia front-page is not multi-language compatible, for this feature %s."
+msgstr "Hestian etusivu ei ole monikielisyyden kanssa yhteensopiva, tätä ominaisuutta varten tarvitset %s."
+
+#: inc/customizer/general/class-hestia-header-controls.php:39
+msgid "Enable Header Image Sitewide"
+msgstr "Ota käyttöön ylätunnisteen kuva sivustonlaajuisesti"
+
+#: inc/core/class-hestia-public.php:329
+#: inc/customizer/class-hestia-customizer-main.php:81
+msgid "Header Background"
+msgstr "Ylätunnisteen taustakuva"
+
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:179
+#: inc/customizer/general/class-hestia-typography-controls.php:310
+#: inc/customizer/general/class-hestia-typography-controls.php:439
+#: vendor/codeinwp/ti-onboarding/includes/class-themeisle-ob-admin.php:140
+msgid "Content"
+msgstr "Sisältö"
+
+#: inc/customizer/general/class-hestia-typography-controls.php:201
+msgid "Posts & Pages"
+msgstr "Artikkelit & Sivut"
+
+#: inc/customizer/general/class-hestia-header-controls.php:109
+msgid "Enable Search in Menu"
+msgstr "Ota haku käyttöön valikossa"
+
+#: inc/customizer/general/class-hestia-general-controls.php:131
+msgid "Enable Scroll to Top"
+msgstr "Ota käyttöön Vieritä ylös"
+
+#: inc/customizer/controls/custom-controls/font-selector/class-hestia-font-selector.php:52
+msgctxt "label"
+msgid "Search for:"
+msgstr "Hae:"
+
+#: inc/core/class-hestia-public.php:202
+msgid "Footer Four"
+msgstr "Alatunniste 4"
+
+#. Template Name of the plugin/theme
+msgid "Page with Sidebar"
+msgstr "Sivu, jolla on sivupalkki"
+
+#: inc/core/class-hestia-public.php:394
+#: inc/customizer/general/class-hestia-header-controls.php:71
+msgid "Menu"
+msgstr "Valikko"
+
+#. translators: 1 - link to customizer setting. 2 - 'customizer'
+#: inc/views/front-page/class-hestia-blog-section.php:59
+msgid "Change this subtitle in the %s."
+msgstr "Vaihda tätä alaotsaketta kohdassa %s."
+
+#. translators: 1 - link to customizer setting. 2 - 'customizer'
+#: inc/views/front-page/class-hestia-big-title-section.php:179
+#: inc/views/front-page/class-hestia-big-title-section.php:186
+msgid "Change in the %s"
+msgstr "Vaihda kohdassa %s"
+
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:274
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:100
+#: inc/customizer/general/class-hestia-header-controls.php:124
+#: inc/customizer/general/class-hestia-header-controls.php:172
+msgid "Layout"
+msgstr "Asettelu"
+
+#: inc/views/class-hestia-tweaks.php:166 inc/views/class-hestia-tweaks.php:170
+#: inc/views/class-hestia-tweaks.php:174
+msgid "Second"
+msgstr "Toinen"
+
+#: inc/core/class-hestia-public.php:187 inc/core/class-hestia-public.php:394
+#: inc/customizer/general/class-hestia-header-controls.php:71
+#: inc/customizer/general/class-hestia-header-controls.php:310
+msgid "Very Top Bar"
+msgstr "Yläpalkki"
+
+#: inc/core/class-hestia-public.php:188
+#: inc/customizer/general/class-hestia-header-controls.php:299
+msgid "Navigation"
+msgstr "Navigaatio"
+
+#: inc/customizer/general/class-hestia-header-controls.php:25
+msgid "Header Options"
+msgstr "Ylätunnistevalinnat"
+
+#: inc/customizer/general/class-hestia-general-controls.php:110
+msgid "Enable Sharing Icons"
+msgstr "Ota jakokuvakkeet käyttöön"
+
+#: inc/customizer/general/class-hestia-typography-controls.php:77
+msgid "font size"
+msgstr "Fonttikoko"
+
+#: inc/core/class-hestia-public.php:324 inc/core/class-hestia-public.php:368
+#: inc/core/class-hestia-public.php:369
+#: inc/customizer/general/class-hestia-typography-controls.php:146
+msgid "Body"
+msgstr "Pääosa"
+
+#: inc/customizer/general/class-hestia-typography-controls.php:73
+#: inc/customizer/general/class-hestia-typography-controls.php:129
+#: inc/customizer/general/class-hestia-typography-controls.php:146
+msgid "font family"
+msgstr "Fonttiperhe"
+
+#: inc/core/class-hestia-public.php:374 inc/core/class-hestia-public.php:375
+#: inc/customizer/general/class-hestia-typography-controls.php:129
+#: inc/customizer/general/class-hestia-typography-controls.php:278
+msgid "Headings"
+msgstr "Otsikot"
+
+#: inc/customizer/general/class-hestia-typography-controls.php:173
+msgid "Font Subsets"
+msgstr "Fontin alaosastot"
+
+#: inc/customizer/general/class-hestia-typography-controls.php:50
+#: inc/customizer/general/class-hestia-upsell-manager.php:164
+msgid "Typography"
+msgstr "Typografia"
+
+#: inc/customizer/controls/custom-controls/font-selector/class-hestia-font-selector.php:59
+msgid "Google Fonts"
+msgstr "Google fontit"
+
+#: inc/customizer/controls/custom-controls/font-selector/class-hestia-font-selector.php:58
+msgid "Standard Fonts"
+msgstr "Vakio fontit"
+
+#: inc/customizer/controls/custom-controls/font-selector/class-hestia-font-selector.php:47
+#: inc/customizer/controls/custom-controls/font-selector/class-hestia-font-selector.php:56
+msgid "Default"
+msgstr "Oletus"
+
+#: inc/core/class-hestia-admin.php:257
+msgid "Display a frontpage section wherever you like by adding its shortcode in page or post content."
+msgstr "Näytä missä tahansa etusivulla alue lisäämällä sen lyhytkoodi sivuun tai artikkelin sisältöön."
+
+#: inc/core/class-hestia-admin.php:256
+msgid "Shortcodes for each section"
+msgstr "Kunkin osan lyhytkoodit"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:36
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s kommentti"
+msgstr[1] "%1$s kommenttia"
+
+#. translators: %s: post title
+#: comments.php:32
+msgctxt "comments title"
+msgid "One comment"
+msgstr "Yksi kommentti"
+
+#: inc/customizer/controls/ui/helper-plugin-install/class-hestia-plugin-install-helper.php:172
+#: vendor/codeinwp/ti-about-page/includes/class-ti-about-plugin-helper.php:173
+msgid "Activating "
+msgstr "Aktivoidaan"
+
+#: inc/customizer/controls/ui/helper-plugin-install/class-hestia-plugin-install-helper.php:106
+#: vendor/codeinwp/ti-about-page/includes/class-ti-about-plugin-helper.php:108
+msgid "Install and activate"
+msgstr "Asenna ja aktivoi"
+
+#: inc/views/front-page/class-hestia-big-title-section.php:179
+#: inc/views/front-page/class-hestia-big-title-section.php:186
+#: inc/views/front-page/class-hestia-blog-section.php:59
+#: vendor/codeinwp/ti-onboarding/includes/class-themeisle-ob-admin.php:141
+msgid "Customizer"
+msgstr "Mukauttaja"
+
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:423
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:424
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:425
+#: inc/views/front-page/class-hestia-big-title-section.php:192
+msgid "Change in the Customizer"
+msgstr "Muuta mukauttimessa"
+
+#: inc/core/class-hestia-admin.php:251
+#: inc/customizer/general/class-hestia-upsell-manager.php:72
+msgid "The ability to reorganize your Frontpage Sections more easily and quickly."
+msgstr "Mahdollistaa etusivun alueiden järjestelyn nopeammin ja helpommin."
+
+#: inc/core/class-hestia-admin.php:59 inc/core/class-hestia-admin.php:62
+msgid "Go to the Customizer"
+msgstr "Siirry Mukauttajaan"
+
+#: inc/customizer/general/class-hestia-upsell-manager.php:71
+msgid "Drag and drop panels to change the order of sections."
+msgstr "Muuta osien järjestystä vetämällä ja pudottamalla paneeleita."
+
+#: inc/customizer/general/class-hestia-upsell-manager.php:107
+msgid "The ability to reorganize your Frontpage sections more easily and quickly."
+msgstr "Mahdollistaa etusivun alueiden järjestelyn nopeammin ja helpommin."
+
+#: inc/customizer/controls/ui/class-hestia-control-upsell.php:72
+#: inc/customizer/controls/ui/class-hestia-section-upsell.php:84
+msgid "PRO"
+msgstr "PRO"
+
+#. Template Name of the plugin/theme
+msgid "Page Builder Full Width"
+msgstr "Page Builder Koko leveys"
+
+#. Template Name of the plugin/theme
+msgid "Page Builder Blank"
+msgstr "Page Builder tyhjä"
+
+#: inc/helpers/layout-functions.php:279
+#: inc/views/main/class-hestia-top-bar.php:68
+msgid "This sidebar is active but empty. In order to use this layout, please add widgets in the sidebar"
+msgstr "Tämä sivupalkki on aktiivinen, mutta tyhjä. Jotta voit käyttää tätä asettelua, lisää vimpaimia sivupalkkiin"
+
+#: inc/customizer/general/class-hestia-general-controls.php:88
+msgid "Blog Sidebar Layout"
+msgstr "Blogin sivupalkin asettelu"
+
+#: inc/admin/page-settings/class-hestia-page-settings.php:46
+#: inc/customizer/general/class-hestia-general-controls.php:196
+msgid "Right Sidebar"
+msgstr "Oikea sivupalkki"
+
+#: inc/admin/page-settings/class-hestia-page-settings.php:42
+#: inc/customizer/general/class-hestia-general-controls.php:192
+msgid "Left Sidebar"
+msgstr "Vasen sivupalkki"
+
+#: inc/admin/page-settings/class-hestia-page-settings.php:38
+#: inc/customizer/general/class-hestia-general-controls.php:188
+msgid "Full Width"
+msgstr "Koko näytön levyinen"
+
+#: inc/customizer/general/class-hestia-general-controls.php:65
+msgid "Page Sidebar Layout"
+msgstr "Sivupalkin asettelu"
+
+#: inc/core/class-hestia-public.php:186
+msgid "WooCommerce Sidebar"
+msgstr "WooCommercen sivupalkki"
+
+#. Template Name of the plugin/theme
+msgid "Fullwidth Template"
+msgstr "Fullwidth-pohja"
+
+#: vendor/codeinwp/ti-about-page/class-ti-about-page.php:159
+msgid "Activating"
+msgstr "Aktivoidaan"
+
+#: inc/views/blog/class-hestia-additional-views.php:117
+msgid "Tags: "
+msgstr "Avainsanat: "
+
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:80
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:156
+#: inc/views/blog/class-hestia-additional-views.php:110
+msgid "Categories:"
+msgstr "Kategoriat:"
+
+#: template-parts/content-none.php:39
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Emme valitettavasti löytäneet etsimääsi. Ehkä hakutoiminnosta on apua."
+
+#: template-parts/content-none.php:34
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Valitettavasti haulla ei löytynyt mitään. Kokeile uudelleen eri hakusanoilla."
+
+#. translators: %1$s is Link to new post, %2$s is Get started here
+#: template-parts/content-none.php:25
+#: vendor/codeinwp/ti-onboarding/includes/class-themeisle-ob-admin.php:138
+msgid "Get started here"
+msgstr "Aloita tästä"
+
+#. translators: %s is Link to new post
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? %s."
+msgstr "Valmiina julkaisemaan ensimmäisen artikkelisi? %s"
+
+#. translators: %1$s is Time since post, %2$s is author Close tag
+#: inc/views/blog/class-hestia-blog-post-layout.php:304
+msgid "%1$s ago %2$s"
+msgstr "%1$s sitten%2$s"
+
+#. translators: %1$s is Author name wrapped, %2$s is Time
+#: inc/views/blog/class-hestia-blog-post-layout.php:295
+msgid "By %1$s, %2$s"
+msgstr "%1$s,%2$s"
+
+#. translators: search result
+#: inc/views/blog/class-hestia-header-layout-manager.php:317
+msgid "Search Results for: %s"
+msgstr "Hakutulokset: %s"
+
+#. translators: %d is number of items
+#: inc/compatibility/woocommerce/functions.php:69
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d kohde"
+msgstr[1] "%d kohdetta"
+
+#: inc/compatibility/woocommerce/functions.php:65
+msgid "View your shopping cart"
+msgstr "Näytä ostoskori"
+
+#: inc/views/blog/class-hestia-additional-views.php:89
+msgid "Share on Google+"
+msgstr "Jaa Google+:ssa"
+
+#: inc/views/blog/class-hestia-additional-views.php:82
+msgid "Share on Twitter"
+msgstr "Jaa Twitterissä"
+
+#: inc/views/blog/class-hestia-additional-views.php:75
+msgid "Share on Facebook"
+msgstr "Jaa Facebookissa"
+
+#: inc/views/blog/class-hestia-additional-views.php:214
+msgid "Related Posts"
+msgstr "Aiheeseen liittyviä artikkeleita"
+
+#: inc/helpers/layout-functions.php:132
+msgid "What's on your mind?"
+msgstr "Mitä mielessäsi on?"
+
+#: inc/views/class-hestia-tweaks.php:137
+msgid "Website"
+msgstr "Verkkosivu"
+
+#: inc/views/class-hestia-tweaks.php:136
+msgid "Email"
+msgstr "Sähköposti"
+
+#: inc/views/class-hestia-tweaks.php:135
+msgid "Name"
+msgstr "Nimi"
+
+#: inc/helpers/layout-functions.php:186
+msgid "Reply"
+msgstr "Vastaa"
+
+#: inc/customizer/controls/custom-controls/customizer-page-editor/class-hestia-page-editor.php:58
+#: inc/customizer/front-page/class-hestia-about-controls.php:161
+#: inc/helpers/layout-functions.php:175
+msgid "(Edit)"
+msgstr "(Muokkaa)"
+
+#. translators: %1$s is Date, %2$s is Time
+#: inc/helpers/layout-functions.php:171
+msgid "&#183; %1$s at %2$s"
+msgstr "& #183;%1$s %2$s"
+
+#: inc/helpers/layout-functions.php:25
+msgid "Previous page"
+msgstr "Edellinen sivu"
+
+#: inc/helpers/layout-functions.php:24
+msgid "Next page"
+msgstr "Seuraava sivu"
+
+#. translators: %s is Category name
+#: inc/helpers/layout-functions.php:681
+msgid "View all posts in %s"
+msgstr "Näytä kaikki kategorian %s artikkelit"
+
+#: inc/customizer/general/class-hestia-buttons-style-controls.php:46
+#: inc/views/class-hestia-tweaks.php:162 inc/views/class-hestia-tweaks.php:166
+msgid "Button"
+msgstr "Painike"
+
+#: inc/core/class-hestia-public.php:607
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+#: inc/core/class-hestia-public.php:606
+msgid "Lorem Ipsum"
+msgstr "Lorem Ipsum"
+
+#. translators: 1 - link to customizer setting. 2 - 'customizer'
+#: inc/views/front-page/class-hestia-contact-section.php:86
+#: inc/views/front-page/class-hestia-shop-section.php:68
+#: inc/views/front-page/class-hestia-subscribe-section.php:65
+msgid "Change this subtitle in %s."
+msgstr "Muuta tämä alaotsikko kohteessa %s."
+
+#: inc/views/front-page/class-hestia-contact-section.php:86
+#: inc/views/front-page/class-hestia-shop-section.php:68
+#: inc/views/front-page/class-hestia-subscribe-section.php:65
+msgid "customizer"
+msgstr "Mukauttaja"
+
+#: inc/customizer/general/class-hestia-upsell-manager.php:43
+msgid "View PRO Features"
+msgstr "Näytä Pro-ominaisuudet"
+
+#: inc/customizer/front-page/class-hestia-subscribe-controls.php:129
+#: inc/views/front-page/class-hestia-subscribe-section.php:69
+msgid "Subscribe to our Newsletter"
+msgstr "Tilaa uutiskirjeemme"
+
+#: inc/core/class-hestia-public.php:185
+#: inc/customizer/front-page/class-hestia-subscribe-controls.php:21
+msgid "Subscribe"
+msgstr "Tilaa"
+
+#: inc/customizer/front-page/class-hestia-shop-controls.php:83
+#: inc/views/front-page/class-hestia-shop-section.php:72
+msgid "Products"
+msgstr "Tuotteet"
+
+#: inc/customizer/front-page/class-hestia-shop-controls.php:24
+msgid "Shop"
+msgstr "Kauppa"
+
+#: inc/customizer/general/class-hestia-general-controls.php:154
+msgid "If enabled, the theme will use a boxed layout."
+msgstr "Jos käytössä, teema käyttää laatikkomaista asettelua."
+
+#: inc/customizer/general/class-hestia-general-controls.php:153
+msgid "Boxed Layout"
+msgstr "Laatikkomainen asettelu"
+
+#: inc/admin/page-settings/class-hestia-page-settings.php:145
+#: inc/customizer/front-page/class-hestia-contact-controls.php:53
+#: inc/customizer/front-page/class-hestia-subscribe-controls.php:52
+#: inc/customizer/general/class-hestia-general-controls.php:44
+msgid "General Settings"
+msgstr "Yleiset asetukset"
+
+#: inc/customizer/front-page/class-hestia-contact-controls.php:57
+#: inc/customizer/front-page/class-hestia-contact-controls.php:159
+msgid "Contact Content"
+msgstr "Yhteystietojen sisältö"
+
+#: inc/customizer/controls/ui/class-hestia-contact-info.php:35
+#: inc/customizer/front-page/class-hestia-subscribe-controls.php:111
+msgid "Instructions"
+msgstr "Ohjeet"
+
+#: inc/customizer/front-page/class-hestia-contact-controls.php:116
+msgid "Form Title"
+msgstr "Lomakkeen otsikko"
+
+#: inc/customizer/front-page/class-hestia-contact-controls.php:111
+#: inc/helpers/layout-functions.php:721
+#: inc/views/front-page/class-hestia-contact-section.php:91
+msgid "Contact Us"
+msgstr "Ota yhteyttä"
+
+#: inc/customizer/front-page/class-hestia-contact-controls.php:221
+#: inc/views/front-page/class-hestia-contact-section.php:90
+msgid "Get in Touch"
+msgstr "Ota yhteyttä"
+
+#: inc/customizer/front-page/class-hestia-contact-controls.php:94
+#: inc/customizer/front-page/class-hestia-subscribe-controls.php:91
+msgid "Background Image"
+msgstr "Taustakuva"
+
+#: inc/customizer/front-page/class-hestia-contact-controls.php:21
+msgid "Contact"
+msgstr "Ota yhteyttä"
+
+#: inc/core/class-hestia-public.php:319
+#: inc/customizer/general/class-hestia-color-controls.php:25
+msgid "Accent Color"
+msgstr "Korostusväri"
+
+#: inc/customizer/front-page/class-hestia-blog-section-controls.php:46
+#: inc/customizer/front-page/class-hestia-shop-controls.php:52
+msgid "Number of Items"
+msgstr "Kohteiden lukumäärä"
+
+#: inc/core/abstract/class-hestia-front-page-section-controls-abstract.php:120
+#: inc/customizer/general/class-hestia-typography-controls.php:408
+msgid "Section Subtitle"
+msgstr "Osion alaotsikko"
+
+#: inc/core/abstract/class-hestia-front-page-section-controls-abstract.php:106
+#: inc/customizer/general/class-hestia-typography-controls.php:377
+msgid "Section Title"
+msgstr "Osion otsikko"
+
+#: inc/customizer/front-page/class-hestia-blog-section-controls.php:21
+#: inc/customizer/front-page/class-hestia-blog-section-controls.php:79
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:100
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:156
+#: inc/views/front-page/class-hestia-blog-section.php:63
+msgid "Blog"
+msgstr "Blogi"
+
+#: inc/customizer/front-page/class-hestia-blog-section-controls.php:80
+#: inc/customizer/front-page/class-hestia-contact-controls.php:222
+#: inc/customizer/front-page/class-hestia-shop-controls.php:84
+#: inc/customizer/front-page/class-hestia-subscribe-controls.php:130
+msgid "Change this subtitle in the Customizer"
+msgstr "Muuta tämä alaotsikko Mukauttimessa"
+
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:242
+msgid "Button URL"
+msgstr "Painikkeen URL"
+
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:227
+#: inc/views/class-hestia-tweaks.php:170
+msgid "Button text"
+msgstr "Painikkeen teksti"
+
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:95
+#: inc/customizer/general/class-hestia-upsell-manager.php:193
+msgid "Big Title Background"
+msgstr "Ison otsikon tausta"
+
+#: inc/core/class-hestia-public.php:189
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:22
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:130
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:362
+#: inc/customizer/general/class-hestia-typography-controls.php:347
+msgid "Big Title Section"
+msgstr "Ison otsikon osio"
+
+#: inc/customizer/front-page/class-hestia-about-controls.php:111
+#: inc/customizer/front-page/class-hestia-about-controls.php:158
+msgid "About Content"
+msgstr "Tietoa -sisältö"
+
+#: inc/compatibility/page-builder/class-hestia-beaver-builder-compatibility.php:125
+#: inc/compatibility/page-builder/class-hestia-elementor-compatibility.php:122
+#: inc/core/abstract/class-hestia-front-page-section-controls-abstract.php:92
+#: inc/customizer/front-page/class-hestia-about-controls.php:56
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:59
+#: inc/customizer/general/class-hestia-header-controls.php:55
+msgid "Disable section"
+msgstr "Ota sisältö pois käytöstä"
+
+#: inc/customizer/front-page/class-hestia-about-controls.php:32
+#: vendor/codeinwp/ti-about-page/class-ti-about-page.php:101
+#: vendor/codeinwp/ti-about-page/class-ti-about-page.php:103
+msgid "About"
+msgstr "Tietoa"
+
+#: inc/customizer/class-hestia-customizer-notices.php:158
+msgid "Recommended Plugins"
+msgstr "Suositellut lisäosat"
+
+#. translators: Orbit Fox Companion
+#: inc/customizer/class-hestia-customizer-notices.php:163
+msgid "If you want to take full advantage of the options this theme has to offer, please install and activate %s."
+msgstr "Jos haluat hyödyntää tämän teeman kaikkia etuja, asenna ja aktivoi %s."
+
+#: inc/core/class-hestia-admin.php:77
+msgid "It is highly recommended that you install the companion plugin to have access to the Frontpage features, Team and Testimonials sections."
+msgstr "On erittäin suositeltavaa, että asennat tukilisäosan, jotta saat pääsyn etusivun ominaisuuksiin, Tiimin ja Referenssilainaus -osioihin."
+
+#: inc/customizer/controls/ui/helper-plugin-install/class-hestia-plugin-install-helper.php:125
+#: vendor/codeinwp/ti-about-page/includes/class-ti-about-plugin-helper.php:127
+msgid "Deactivate"
+msgstr "Poista käytöstä"
+
+#: inc/customizer/controls/ui/helper-plugin-install/class-hestia-plugin-install-helper.php:110
+#: inc/customizer/controls/ui/helper-plugin-install/class-hestia-plugin-install-helper.php:130
+#: vendor/codeinwp/ti-about-page/includes/class-ti-about-plugin-helper.php:112
+#: vendor/codeinwp/ti-about-page/includes/class-ti-about-plugin-helper.php:132
+msgid "Activate"
+msgstr "Aktivoi"
+
+#: inc/core/class-hestia-admin.php:287
+#: inc/customizer/general/class-hestia-upsell-manager.php:73
+msgid "24/7 HelpDesk Professional Support"
+msgstr "24/7 helpdesk Professional-tuki"
+
+#: inc/core/class-hestia-admin.php:286
+#: inc/customizer/general/class-hestia-upsell-manager.php:64
+msgid "Quality Support"
+msgstr "Laadukasta tukea"
+
+#: inc/core/class-hestia-admin.php:269
+#: inc/customizer/general/class-hestia-upsell-manager.php:68
+msgid "Change colors for the header overlay, header text and navbar."
+msgstr "Muuta ylätunnisteen, ylätunnistetekstin ja navigaatiopalkin värejä."
+
+#: inc/core/class-hestia-admin.php:268
+#: inc/customizer/general/class-hestia-upsell-manager.php:60
+msgid "Fully Customizable Colors"
+msgstr "Täysin muokattavissa olevat värit"
+
+#: inc/core/class-hestia-admin.php:263
+#: inc/customizer/general/class-hestia-upsell-manager.php:67
+msgid "You will be able to add more content to your site header with an awesome slider."
+msgstr "Sinun on mahdollista lisätä lisää sisältöä sivustosi ylätunnisteeseen mahtavalla karusellilla."
+
+#: inc/core/class-hestia-admin.php:262
+#: inc/customizer/general/class-hestia-upsell-manager.php:59
+msgid "Header Slider"
+msgstr "Ylätunnisteen kuvakaruselli"
+
+#: inc/core/class-hestia-admin.php:245
+msgid "You can use any background image you want."
+msgstr "Voit käyttää mitä tahansa haluamaasi taustakuvaa."
+
+#: inc/core/class-hestia-admin.php:244
+msgid "Background image"
+msgstr "Taustakuva"
+
+#: inc/core/class-hestia-admin.php:239
+msgid "Big title, Features, About, Team, Testimonials, Subscribe, Blog, Contact"
+msgstr "Iso otsikko, Ominaisuudet, Tietoa, Tiimi, Asiakastarinat, Tilaa, Blogi, Yhteystiedot"
+
+#: inc/core/class-hestia-admin.php:233
+msgid "Ready for e-commerce. You can build an online store here."
+msgstr "Valmis verkkokauppakäyttöön. Voit rakentaa verkkokauppasi tästä."
+
+#: inc/core/class-hestia-admin.php:232
+msgid "WooCommerce Compatible"
+msgstr "WooCommerce-yhteensopiva"
+
+#: inc/core/class-hestia-admin.php:227
+msgid "Responsive layout. Works on every device."
+msgstr "Responsiivinen ulkoasu. Toimii kaikilla laitteilla."
+
+#: inc/core/class-hestia-admin.php:226
+msgid "Mobile friendly"
+msgstr "Mobiiliystävällinen"
+
+#. translators: s - theme name
+#: inc/core/class-hestia-admin.php:219
+msgid "Get %s now!"
+msgstr "Hanki %s nyt!"
+
+#: inc/core/class-hestia-admin.php:60
+msgid "Using the WordPress Customizer you can easily customize every aspect of the theme."
+msgstr "Käyttämällä WordPressin mukautinta voit helposti kustomoida jokaisen teeman eri osa-alueen."
+
+#: inc/core/class-hestia-admin.php:40
+msgid "We have compiled a list of steps for you to take so we can ensure that the experience you have using one of our products is very easy to follow."
+msgstr "Olemme koonneet listan vaiheista, joita seuraamalla voit varmistaa että käyttökokemuksesi on helppo ja vaivaton."
+
+#: inc/core/class-hestia-admin.php:39 inc/core/class-hestia-admin.php:42
+#: vendor/codeinwp/ti-about-page/includes/class-ti-about-render.php:344
+msgid "Recommended actions"
+msgstr "Suositeltavat toimet"
+
+#: inc/core/class-hestia-admin.php:167
+msgid "In the documentation below you will find an easy way to build a great looking landing page using a drag-and-drop content builder plugin."
+msgstr "Alla olevasta dokumentaatiosta löydät helposti tapoja rakentaa hyvännäköisiä laskeutumissivuja käyttämällä raahaa- ja pudota tyyppistä sisällönkasaamislisäosaa."
+
+#: inc/core/class-hestia-admin.php:166
+msgid "Build a landing page with a drag-and-drop content builder"
+msgstr "Luo laskeutumissivu raahaa-ja-pudota sisältöbuilderilla."
+
+#: inc/core/class-hestia-admin.php:156
+msgid "If you find yourself in a situation where everything on your site is running very slowly, you might consider having a look at the documentation below where you will find the most common issues causing this and possible solutions for each of the issues."
+msgstr "Jos huomaat että sivustosi latautuu todella hitaasti, katso dokumentaatiota alta josta lyödät yleisimmät ongelmat jotka tätä aiheuttavat sekä mahdollisia ratkaisuja ongelmaan."
+
+#: inc/core/class-hestia-admin.php:155
+msgid "Speed up your site"
+msgstr "Nopeuta sivustoasi"
+
+#: inc/core/class-hestia-admin.php:147 inc/core/class-hestia-admin.php:158
+#: inc/core/class-hestia-admin.php:169
+msgid "View how to do this"
+msgstr "Miten se tehdään"
+
+#: inc/core/class-hestia-admin.php:145
+msgid "If you want to make changes to the theme's files, those changes are likely to be overwritten when you next update the theme. In order to prevent that from happening, you need to create a child theme. For this, please follow the documentation below."
+msgstr "Jos haluat tehdä muutoksia teeman tiedostoihin, muutokset todennäköisesti ylikirjoitetaan seuraavassa teeman päivityksessä. Jotta estäisit tämän, sinun täytyy rakentaa lapsiteema. Noudata alla olevia ohjeita."
+
+#: inc/core/class-hestia-admin.php:144
+msgid "Create a child theme"
+msgstr "Lapsiteeman luominen"
+
+#: inc/core/class-hestia-admin.php:134
+msgid "Want to get the gist on the latest theme changes? Just consult our changelog below to get a taste of the recent fixes and features implemented."
+msgstr "Haluatko saada uusimmat teeman muutokset? Katso muutoslokia alta saadaksesi osviittaa siitä mikä on muuttunut viime aikoina ja mitä korjauksia ja parannuksia on implementoitu."
+
+#: inc/core/class-hestia-admin.php:49 inc/core/class-hestia-admin.php:125
+#: inc/customizer/controls/ui/subscribe-info/class-hestia-subscribe-info.php:137
+msgid "Read full documentation"
+msgstr "Lue koko dokumentaatio"
+
+#: inc/core/class-hestia-admin.php:50 inc/core/class-hestia-admin.php:123
+#: inc/core/class-hestia-public.php:545
+msgid "Need more details? Please check our full documentation for detailed information on how to use Hestia."
+msgstr "Tarvitsetko lisätietoja? Lue koko dokumentaatiomme jotta saat yksityiskohtaiset tiedot Hestian käyttämiseen."
+
+#: inc/core/class-hestia-admin.php:112
+msgid "We want to make sure you have the best experience using Hestia, and that is why we have gathered all the necessary information here for you. We hope you will enjoy using Hestia as much as we enjoy creating great products."
+msgstr "Haluamme varmistaa parhaan käyttökokemuksen ja siksi olemme kasanneet kaiken tarvittavan informaation tänne auttaaksemme sinua. Toivomme että nautit Hestian käytöstä yhtä paljon kuin me nautimme upeiden tuotteiden luomisesta."
+
+#: inc/core/class-hestia-admin.php:111 inc/core/class-hestia-admin.php:114
+msgid "Contact Support"
+msgstr "Ota yhteyttä tukeen"
+
+#: inc/core/class-hestia-admin.php:183
+msgid "Free vs PRO"
+msgstr "Ilmainen vs PRO"
+
+#: inc/core/class-hestia-admin.php:133 inc/core/class-hestia-admin.php:136
+#: inc/core/class-hestia-admin.php:179
+msgid "Changelog"
+msgstr "Muutosloki"
+
+#: inc/core/class-hestia-admin.php:107
+msgid "Support"
+msgstr "Tuki"
+
+#: inc/core/class-hestia-admin.php:93
+msgid "Useful Plugins"
+msgstr "Hyödyllisiä lisäosia"
+
+#: inc/core/class-hestia-admin.php:72
+msgid "Recommended Actions"
+msgstr "Suositeltavat toimet"
+
+#: inc/core/class-hestia-admin.php:36
+msgid "Getting Started"
+msgstr "Käytön aloittaminen"
+
+#: inc/core/class-hestia-public.php:545
+msgid "About Hestia"
+msgstr "Tietoa Hestiasta"
+
+#: inc/customizer/class-hestia-customizer-main.php:67
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:31
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:137
+msgid "Blog Settings"
+msgstr "Blogin asetukset"
+
+#: inc/core/class-hestia-admin.php:238
+#: inc/customizer/class-hestia-customizer-main.php:56
+#: inc/customizer/general/class-hestia-general-controls.php:170
+#: inc/customizer/general/class-hestia-typography-controls.php:216
+msgid "Frontpage Sections"
+msgstr "Etusivun osiot"
+
+#: inc/customizer/class-hestia-customizer-main.php:46
+msgid "Appearance Settings"
+msgstr "Ulkoasun asetukset"
+
+#: inc/core/class-hestia-admin.php:281
+#: inc/customizer/general/class-hestia-upsell-manager.php:70
+#: inc/customizer/general/class-hestia-upsell-manager.php:106
+msgid "A fully customizable pricing plans section."
+msgstr "Muokattava Hinta/Plans -osio"
+
+#: inc/core/class-hestia-admin.php:275
+#: inc/customizer/general/class-hestia-upsell-manager.php:69
+#: inc/customizer/general/class-hestia-upsell-manager.php:105
+msgid "Portfolio section with two possible layouts."
+msgstr "Portfolio-osasto kahdella valittavissa olevalla asettelulla."
+
+#: inc/admin/class-hestia-admin-notices-manager.php:39
+#: inc/customizer/general/class-hestia-upsell-manager.php:76
+#: inc/customizer/general/class-hestia-upsell-manager.php:119
+#: inc/customizer/general/class-hestia-upsell-manager.php:122
+msgid "Get the PRO version!"
+msgstr "Hanki PRO-versio!"
+
+#: inc/core/class-hestia-admin.php:250
+#: inc/customizer/general/class-hestia-upsell-manager.php:63
+#: inc/customizer/general/class-hestia-upsell-manager.php:112
+msgid "Section Reordering"
+msgstr "Osioiden uudelleenjärjestäminen"
+
+#: inc/core/class-hestia-admin.php:280
+#: inc/customizer/general/class-hestia-upsell-manager.php:62
+#: inc/customizer/general/class-hestia-upsell-manager.php:111
+msgid "Pricing Plans Section"
+msgstr "Hinnoittelu/Plans-osio"
+
+#: inc/core/class-hestia-admin.php:274
+#: inc/customizer/controls/ui/helper-plugin-install/class-hestia-plugin-install-helper.php:130
+#: inc/customizer/general/class-hestia-upsell-manager.php:61
+#: inc/customizer/general/class-hestia-upsell-manager.php:110
+#: vendor/codeinwp/ti-about-page/includes/class-ti-about-plugin-helper.php:132
+msgid "Jetpack Portfolio"
+msgstr "Jetpack Portfolio"
+
+#: inc/core/class-hestia-admin.php:52 inc/core/class-hestia-admin.php:122
+#: inc/customizer/class-hestia-customizer-notices.php:80
+msgid "Documentation"
+msgstr "Dokumentaatio"
+
+#. translators: %s Path in plugin wrapped
+#: inc/customizer/controls/ui/subscribe-info/class-hestia-subscribe-info.php:121
+msgid "After installing the plugin, you need to navigate to %s and configure the plugin."
+msgstr "Lisäosan asentamisen jälkeen sinun tarvitsee navigoida %s ja tehdä lisäosaan tarvittavat asetukset."
+
+#: inc/customizer/front-page/class-hestia-subscribe-controls.php:55
+msgid "SendinBlue plugin"
+msgstr "SendinBlue plugin"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:792
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:830
+msgid "Add Icon"
+msgstr "Lisää kuvake"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:787
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:824
+msgid "Remove Icon"
+msgstr "Poista kuvake"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:756
+msgid "Social icons"
+msgstr "Sosiaalisen median ikonit"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:742
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:158
+msgid "None"
+msgstr "Ei mitään"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:737
+msgid "Image type"
+msgstr "Kuvan tyyppi"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:724
+msgid "Upload Image"
+msgstr "Lataa kuva"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:721
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:741
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:97
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:152
+msgid "Image"
+msgstr "Kuva"
+
+#. translators: Fontawesome link with full list of icons available
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:685
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:763
+msgid "http://fontawesome.io/icons/"
+msgstr "http://fontawesome.io/icons/"
+
+#. translators: Fontawesome link with full list of icons available
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:683
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:761
+msgid "Note: Some icons may not be displayed here. You can see the full list of icons at %1$s."
+msgstr "Huomautus: tässä ei ehkä näy joitakin kuvakkeita. Näet kuvakkeiden täydellisen listan osoitteessa %1$s."
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:677
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:740
+msgid "Icon"
+msgstr "Kuvake"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:489
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:605
+msgid "Delete field"
+msgstr "Poista kenttä"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:469
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:593
+#: inc/customizer/front-page/class-hestia-contact-controls.php:185
+msgid "Shortcode"
+msgstr "Lyhytkoodi"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:437
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:458
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:566
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:584
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:784
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:810
+#: inc/views/class-hestia-tweaks.php:174
+msgid "Link"
+msgstr "Linkki"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:427
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:448
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:557
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:575
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:200
+msgid "Text"
+msgstr "Teksti"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:417
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:548
+msgid "Subtitle"
+msgstr "Alaotsikko"
+
+#: inc/core/class-hestia-public.php:380 inc/core/class-hestia-public.php:381
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:407
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:539
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:75
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:179
+#: inc/customizer/general/class-hestia-typography-controls.php:245
+msgid "Title"
+msgstr "Otsikko"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:384
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:396
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:519
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:529
+#: inc/views/class-hestia-tweaks.php:162 inc/views/class-hestia-tweaks.php:166
+msgid "Color"
+msgstr "Väri"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:148
+msgid "Customizer Repeater"
+msgstr "Mukauttimen toistuva kenttä"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:143
+msgid "Add new field"
+msgstr "Lisää uusi kenttä"
+
+#: inc/customizer/front-page/class-hestia-about-controls.php:134
+msgid "About background"
+msgstr "Tietoa -tausta"
+
+#: inc/customizer/class-hestia-customizer-notices.php:114
+msgid "WooCommerce plugin"
+msgstr "WooCommerce-lisäosa"
+
+#. translators: %1$s is Plugin Name
+#: inc/customizer/class-hestia-customizer-notices.php:113
+msgid "To have access to a shop section please install and configure %1$s."
+msgstr "Jos haluat käyttää verkkokauppatoimintoja, ole hyvä ja asenna ja lisää asetukset lisäosalle %1$s."
+
+#. translators: %1$s is Plugin name
+#: inc/helpers/layout-functions.php:728
+msgid "In order to add a contact form to this section, you need to install the %s plugin."
+msgstr "Jotta voisit lisätä yhteystietolomakkeen tähän osioon, sinun täytyy asentaa %s lisäosa."
+
+#: inc/views/main/class-hestia-header.php:108
+msgid "Toggle Navigation"
+msgstr "Navigointi päälle/pois"
+
+#: inc/views/class-hestia-tweaks.php:158
+msgid "Button Text"
+msgstr "Painikkeen teksti"
+
+#: inc/compatibility/woocommerce/functions.php:412
+#: inc/core/class-hestia-public.php:441
+msgid "View cart"
+msgstr "Näytä ostoskori"
+
+#: inc/core/class-hestia-public.php:656
+msgctxt "Roboto Slab font: on or off"
+msgid "on"
+msgstr "päällä"
+
+#: inc/core/class-hestia-public.php:655
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr "päällä"
+
+#: inc/core/class-hestia-public.php:201
+msgid "Footer Three"
+msgstr "Alatunniste 3"
+
+#: inc/core/class-hestia-public.php:200
+msgid "Footer Two"
+msgstr "Alatunniste 2"
+
+#: inc/core/class-hestia-public.php:199
+msgid "Footer One"
+msgstr "Alatunniste 1"
+
+#: inc/core/class-hestia-public.php:609
+msgid "Blog Subscribe Section"
+msgstr "Tilaa blogi -osio"
+
+#: inc/admin/page-settings/class-hestia-page-settings.php:34
+#: inc/core/class-hestia-public.php:184
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:130
+msgid "Sidebar"
+msgstr "Sivupalkki"
+
+#: inc/core/class-hestia-public.php:393
+msgid "Footer Menu"
+msgstr "Sivun alareunan valikko"
+
+#: inc/core/class-hestia-public.php:392 inc/core/class-hestia-public.php:568
+msgid "Primary Menu"
+msgstr "Päävalikko"
+
+#. #-#-#-#-#  hestia.pot (Hestia 2.0.12)  #-#-#-#-#
+#. Theme Name of the plugin/theme
+#: inc/core/class-hestia-public.php:608
+#: inc/customizer/class-hestia-customizer-notices.php:78
+#: inc/views/main/class-hestia-footer.php:129
+msgid "Hestia"
+msgstr "Hestia"
+
+#: comments.php:73
+msgid "Comments are closed."
+msgstr "Kommentointi on suljettu."
+
+#. translators: %s is Image sizes for attachment single page.
+#: attachment.php:48
+msgid "Size: %s"
+msgstr "Koko: %s"
+
+#. translators: %1$s is Author name wrapped, %2$s is Date
+#: inc/views/blog/class-hestia-header-layout-manager.php:383
+msgid "Published by %1$s on %2$s"
+msgstr "%1$s / %2$s"
+
+#. translators: %s is Link to login
+#: inc/helpers/layout-functions.php:123
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Sinun pitää olla <a href=\"%s\">kirjautunut sisään</a> kommentoidaksesi."
+
+#. #-#-#-#-#  hestia.pot (Hestia 2.0.12)  #-#-#-#-#
+#. translators: %1$s is URL, %2$s is WordPress
+#. #-#-#-#-#  hestia.pot (Hestia 2.0.12)  #-#-#-#-#
+#. Author URI of the plugin/theme
+#: inc/views/main/class-hestia-footer.php:133
+msgid "https://themeisle.com"
+msgstr "https://themeisle.com"
+
+#. Author of the plugin/theme
+msgid "ThemeIsle"
+msgstr "ThemeIsle"
+
+#. Theme URI of the plugin/theme
+msgid "https://themeisle.com/themes/hestia/"
+msgstr "https://themeisle.com/themes/hestia/"

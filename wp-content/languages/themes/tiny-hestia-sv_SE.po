@@ -1,0 +1,28 @@
+# Translation of Themes - Tiny Hestia in Swedish
+# This file is distributed under the same license as the Themes - Tiny Hestia package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-01-23 15:02:50+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Themes - Tiny Hestia\n"
+
+#. Description of the plugin/theme
+msgid "Tiny Hestia is a child theme for blogging enthusiasts and for page builders fans. The theme is optimised for speed and designed to work well with: Elementor, Beaver Builder, SiteOrigin, Divi or Visual Composer, using those you can easily create a business/corporate site and pretty much anything else. Is a modern material design theme, obviously responsive with a clean design and lots of options."
+msgstr "Tiny Hestia är ett barntema för bloggentusiasten och för dig som gillar sidbyggare. Temat är optimerat för att vara snabbt och designat för att fungera bra med: Elementor, Beaver Builder, SiteOrigin, Divi och Visual Composer. Genom att använda någon av dessa sidbyggare kan du enkelt skapa en företagswebbplats och i princip alla andra typer av webbplatser. Temat är skapat med så kallad material design, det är naturligtvis responsivt med ren design och massor av inställningsmöjligheter."
+
+#. Theme Name of the plugin/theme
+msgid "Tiny Hestia"
+msgstr "Tiny Hestia"
+
+#. Author of the plugin/theme
+msgid "ThemeIsle"
+msgstr "ThemeIsle"
+
+#. Theme URI of the plugin/theme
+msgid "https://www.themeisle.com/"
+msgstr "https://www.themeisle.com/"
